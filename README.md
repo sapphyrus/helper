@@ -5,7 +5,7 @@ Public repo for GS grenade helper, including files that are streamed live
 ```js
 {
 	"name": ["T Roof", "Scaffolding Box"], // array of from and to, alternatively a single string
-	"weapon": "weapon_molotov", // weapon console name
+	"weapon": "weapon_molotov", // weapon console name, can also be an array of console names
 	"location": [691.63653564453, -1130.1051025391, -127.96875], // origin
 	"location_visibility": [-44, 0, 0], // offset to origin for world vischeck, defaults to [0, 0, 0]
 	"viewangles": [-1.8710323572159, -136.26739501953], // pitch, yaw. roll is ignored
@@ -32,7 +32,7 @@ movement recordings are saved like this:
 ```js
 {
 	"name": ["T Roof", "Scaffolding Box"], // array of from and to, alternatively a single string
-	"weapon": "weapon_molotov", // weapon console name
+	"weapon": "weapon_molotov", // weapon console name, can also be an array of console names
 	"location": [691.63653564453, -1130.1051025391, -127.96875], // origin
 	"location_visibility": [-44, 0, 0], // offset to origin for world vischeck, defaults to [0, 0, 0]
 	"viewangles": [-1.8710323572159, -136.26739501953], // pitch, yaw. roll is ignored
