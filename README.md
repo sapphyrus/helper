@@ -10,8 +10,8 @@ Public repo for GS grenade helper, including files that are streamed live
 	"position_visibility": [-44, 0, 0], // offset to origin for world vischeck, defaults to [0, 0, 0]
 	"viewangles": [-1.8710323572159, -136.26739501953], // pitch, yaw
 	"duck": true, // true = have to be fully ducked, defaults to false
-	"tickrate": 128, // location is compatible with this tickrate, can also be an array of tickrates
-	"grenade_throw": {
+	"tickrate": 128, // number: all tickrates supported, array: the only tickrates supported
+	"grenade": {
 		"strength": 0.5, // required m_flThrowStrength to autothrow, 1=left, 0.5 = right+left, 0 = right
 		"fov": 0.3, // have to be in this fov to autothrow
 		"jump": true, // jumpthrow at the end of running
@@ -36,7 +36,7 @@ movement recordings are saved like this:
 	"position": [691.63653564453, -1130.1051025391, -127.96875], // origin
 	"position_visibility": [-44, 0, 0], // offset to origin for world vischeck, defaults to [0, 0, 0]
 	"viewangles": [-1.8710323572159, -136.26739501953], // pitch, yaw
-	"tickrate": [64, 128], // location is compatible with this tickrate, can also be an array of tickrates
+	"tickrate": [64, 128], // number: all tickrates supported, array: the only tickrates supported
 	"destroy": { // a breakable world object has to be destroyed before autothrowing / playback
 		"start": [392.701141, -1442.725342, 1936.63842], // trace_line starts from here
 		"end": [232.03129134004, -1425.9891813532, 1899.5775623479], // trace_line ends here
