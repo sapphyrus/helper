@@ -81,6 +81,9 @@ movement recordings are saved like this:
 	"name": "sothatwemaybefree.com",
 	"description": "Legit grenades from sothatwemaybefree.com", // description, will be shown in menu
 	"update_timestamp": 1596507260, // update timestamp, will be shown in menu
+	// optional, will overwrite the locally stored url and cause that url to be re-requested
+	// use this if you wanna change the URL without breaking everyone's configs
+	"url": "https://raw.githubusercontent.com/sapphyrus/helper/master/locations/sothatwemaybefree.json",
 	"locations": {
 		"de_mirage": [
 			// array of locations
