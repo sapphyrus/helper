@@ -1,0 +1,97 @@
+[
+  {
+    "name": [
+      "Left Alley",
+      "Apartment Bridge"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1465.6932373047,
+      177.13087463379,
+      -159.13429260254
+    ],
+    "viewangles": [
+      -19.873666763306,
+      63.353412628174
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Left Alley",
+      "Apartment Hut (Entrance)"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1396.6763916016,
+      186.04345703125,
+      -159.48246765137
+    ],
+    "viewangles": [
+      -33.971202850342,
+      69.919921875
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Left Alley",
+      "Left Alley (Corner)"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -931.51794433594,
+      -90.098564147949,
+      -160.22257995605
+    ],
+    "viewangles": [
+      -21.140872955322,
+      135.11848449707
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Left Alley (Corner)",
+      "Left Alley (CT Corner)"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -958.43792724609,
+      1034.6025390625,
+      -160.41195678711
+    ],
+    "viewangles": [
+      -22.144033432007,
+      -135.8600769043
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Tunnel",
+      "Side Hall"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      232.64221191406,
+      158.80474853516,
+      -151.27409362793
+    ],
+    "viewangles": [
+      -14.341239929199,
+      34.713165283203
+    ],
+    "grenade": {
+      "run": 20
+    }
+  }
+]

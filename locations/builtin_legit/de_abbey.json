@@ -1,0 +1,330 @@
+[
+  {
+    "name": [
+      "Field",
+      "Middle connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -4207.1806640625,
+      2413.96875,
+      -87.056198120117
+    ],
+    "viewangles": [
+      -16.213985443115,
+      -75.21745300293
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Field",
+      "Wine cellar"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -4347.96875,
+      2126.03125,
+      -27.114282608032
+    ],
+    "viewangles": [
+      -23.298000335693,
+      -78.244926452637
+    ]
+  },
+  {
+    "name": [
+      "Right Alley",
+      "Back of A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3584.03125,
+      2415.96875,
+      -85.082237243652
+    ],
+    "viewangles": [
+      -7.3259978294373,
+      -108.80316162109
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Field",
+      "Restroom"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -4347.96875,
+      2215.9853515625,
+      -30.820634841919
+    ],
+    "viewangles": [
+      -14.762004852295,
+      -92.127708435059
+    ]
+  },
+  {
+    "name": [
+      "Barn",
+      "A Site"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -3854.1142578125,
+      1461.4283447266,
+      -24.615859985352
+    ],
+    "viewangles": [
+      -46.366065979004,
+      107.08843994141
+    ]
+  },
+  {
+    "name": [
+      "A Ramp",
+      "Long A"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -4524.3046875,
+      2382.8198242188,
+      -32.619697570801
+    ],
+    "viewangles": [
+      -25.686088562012,
+      -114.61957550049
+    ]
+  },
+  {
+    "name": [
+      "River",
+      "Balcony"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3030.4851074219,
+      2903.0949707031,
+      -91.96875
+    ],
+    "viewangles": [
+      -23.969984054565,
+      -86.591552734375
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Middle Arch",
+      "Middle Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2192.03125,
+      2455.96875,
+      1.03125
+    ],
+    "viewangles": [
+      -6.2819876670837,
+      -121.52803039551
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Back Alley",
+      "Gate"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1344.03125,
+      1978.03125,
+      1.1979198455811
+    ],
+    "viewangles": [
+      -30.525915145874,
+      -100.3881149292
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Back Alley",
+      "Gate House"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1465.9063720703,
+      1720.03125,
+      2.040885925293
+    ],
+    "viewangles": [
+      -45.815719604492,
+      -84.864311218262
+    ]
+  },
+  {
+    "name": [
+      "Back Alley",
+      "T Ramp"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -966.01416015625,
+      1911.96875,
+      5.6896362304688
+    ],
+    "viewangles": [
+      -26.65364074707,
+      -130.10432434082
+    ]
+  },
+  {
+    "name": [
+      "House",
+      "Street"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -1134.96875,
+      1008.03125,
+      0.03125
+    ],
+    "viewangles": [
+      -37.609489440918,
+      17.118827819824
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "CT",
+      "Middle"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2787.0300292969,
+      -163.96875,
+      66.03125
+    ],
+    "viewangles": [
+      -3.6635544300079,
+      80.696746826172
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Stairs",
+      "B Site"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2167.9562988281,
+      833.01422119141,
+      -158.96875
+    ],
+    "viewangles": [
+      -41.173557281494,
+      -43.36909866333
+    ]
+  },
+  {
+    "name": [
+      "Underpass",
+      "T Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2189.96875,
+      693.55621337891,
+      -158.96875
+    ],
+    "viewangles": [
+      -46.893466949463,
+      -9.8546323776245
+    ]
+  },
+  {
+    "name": [
+      "Banana",
+      "Back of B"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2214.3999023438,
+      -676.54022216797,
+      2.458854675293
+    ],
+    "viewangles": [
+      -57.607402801514,
+      40.811340332031
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Banana",
+      "T Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2214.3999023438,
+      -676.54022216797,
+      2.458854675293
+    ],
+    "viewangles": [
+      -61.766010284424,
+      58.938369750977
+    ]
+  },
+  {
+    "name": [
+      "Bridge",
+      "Barn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3152.4055175781,
+      656.08050537109,
+      -50.292953491211
+    ],
+    "viewangles": [
+      -59.93989944458,
+      142.64846801758
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Bridge",
+      "A Site"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2639.96875,
+      844.46704101563,
+      -62.495113372803
+    ],
+    "viewangles": [
+      -8.8120584487915,
+      179.25663757324
+    ],
+    "grenade": {
+      "jump": true
+    }
+  }
+]

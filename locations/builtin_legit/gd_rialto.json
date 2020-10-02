@@ -1,0 +1,156 @@
+[
+  {
+    "name": [
+      "Connector",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      453.57995605469,
+      607.34173583984,
+      141.69445800781
+    ],
+    "viewangles": [
+      -39.600227355957,
+      -136.82386779785
+    ]
+  },
+  {
+    "name": [
+      "Right Alley",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      458.87619018555,
+      312.25872802734,
+      215.46383666992
+    ],
+    "viewangles": [
+      -27.191860198975,
+      -153.81678771973
+    ],
+    "grenade": {
+      "jump": true,
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Connector 2",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      319.2490234375,
+      743.96948242188,
+      96.03125
+    ],
+    "viewangles": [
+      -44.616016387939,
+      -124.85610961914
+    ]
+  },
+  {
+    "name": [
+      "Connector 3",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      273.88778686523,
+      743.99639892578,
+      96.03125
+    ],
+    "viewangles": [
+      -44.792137145996,
+      -123.19995117188
+    ]
+  },
+  {
+    "name": [
+      "Right Alley - Center",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      453.87298583984,
+      257.44519042969,
+      229.16516113281
+    ],
+    "viewangles": [
+      -16.456260681152,
+      -149.52850341797
+    ],
+    "grenade": {
+      "jump": true,
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Roof",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -250.89756774902,
+      -55.572593688965,
+      533.85473632813
+    ],
+    "viewangles": [
+      12.407741546631,
+      6.9750537872314
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Second roof",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      256.47351074219,
+      -94.077239990234,
+      514.21716308594
+    ],
+    "viewangles": [
+      8.095724105835,
+      165.63876342773
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "CT Side Lower",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      278.43295288086,
+      -745.97778320313,
+      96.03125
+    ],
+    "viewangles": [
+      -44.176067352295,
+      125.96856689453
+    ]
+  },
+  {
+    "name": [
+      "CT Side Lower",
+      "Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -203.27293395996,
+      -751.00256347656,
+      96.03125
+    ],
+    "viewangles": [
+      -51.424152374268,
+      93.328758239746
+    ]
+  }
+]

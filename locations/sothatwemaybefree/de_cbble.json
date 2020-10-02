@@ -1,0 +1,601 @@
+[
+  {
+    "name": [
+      "Plateau",
+      "Terrace"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1566.001098,
+      1091.941406,
+      91.934799
+    ],
+    "viewangles": [
+      -34.320278,
+      -32.84111
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "tickrate": [
+      128
+    ]
+  },
+  {
+    "name": [
+      "Plateau",
+      "Bombsite B"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1566.001342,
+      1091.941406,
+      91.934799
+    ],
+    "viewangles": [
+      -41.646202,
+      -44.77003
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "tickrate": [
+      128
+    ]
+  },
+  {
+    "name": [
+      "Plateau",
+      "Short"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1566.00122,
+      1091.941406,
+      91.934799
+    ],
+    "viewangles": [
+      -45.705047,
+      -44.687755
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "tickrate": [
+      128
+    ]
+  },
+  {
+    "name": [
+      "Connector",
+      "B Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1540.975585,
+      -1226.96875,
+      5.454048
+    ],
+    "viewangles": [
+      -50.672637,
+      41.493633
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "CT Ramp",
+      "Balcony"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2533.99585,
+      -272.03125,
+      -184.473129
+    ],
+    "viewangles": [
+      -17.078824,
+      -65.535369
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Electric",
+      "B Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -399.96875,
+      -760.03125,
+      -95.66732
+    ],
+    "viewangles": [
+      -15.230921,
+      33.305942
+    ]
+  },
+  {
+    "name": [
+      "B Door",
+      "B Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -823.96875,
+      -1055.96875,
+      -124.13871
+    ],
+    "viewangles": [
+      -16.715764,
+      33.788795
+    ],
+    "grenade": {
+      "run": 18
+    }
+  },
+  {
+    "name": [
+      "Balcony",
+      "A Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1864.96875,
+      -1611.992187,
+      96.03125
+    ],
+    "viewangles": [
+      -11.039745,
+      136.122344
+    ]
+  },
+  {
+    "name": [
+      "A Long",
+      "Hay"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3471.96875,
+      -655.96875,
+      32.03125
+    ],
+    "viewangles": [
+      -17.31011,
+      44.440174
+    ]
+  },
+  {
+    "name": [
+      "B Long",
+      "B Long (Oneway)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      272.03125,
+      -291.03125,
+      -63.96875
+    ],
+    "viewangles": [
+      -31.929048,
+      17.581403
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "A Long",
+      "Storage"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3334.70996,
+      -74.967994,
+      -29.96875
+    ],
+    "viewangles": [
+      -37.687629,
+      -37.875598
+    ]
+  },
+  {
+    "name": [
+      "B Long",
+      "Bombsite B"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -417.18341,
+      -99.287826,
+      -32.772385
+    ],
+    "viewangles": [
+      -76.082763,
+      -60.890064
+    ]
+  },
+  {
+    "name": [
+      "Halls",
+      "B Doors"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -558.03125,
+      -42.535999,
+      0.03125
+    ],
+    "viewangles": [
+      -62.173511,
+      -100.720726
+    ]
+  },
+  {
+    "name": [
+      "B Long",
+      "Boost"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -355.091644,
+      -239.96875,
+      -31.96875
+    ],
+    "viewangles": [
+      -79.102066,
+      -9.214387
+    ]
+  },
+  {
+    "name": [
+      "Alley",
+      "Balcony"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2991.96875,
+      -788.422424,
+      16.522827000000007
+    ],
+    "viewangles": [
+      -26.549745,
+      -35.08456
+    ]
+  },
+  {
+    "name": [
+      "Hay",
+      "A Door"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3346.548828,
+      454.831756,
+      0.03125
+    ],
+    "viewangles": [
+      -40.393516,
+      -45.594532
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Drop",
+      "Dropper"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -752.03125,
+      -80.014381,
+      128.03125
+    ],
+    "viewangles": [
+      5.361639,
+      -119.332336
+    ]
+  },
+  {
+    "name": [
+      "Hay",
+      "Grassy"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3165.163574,
+      585.622375,
+      0.03125
+    ],
+    "viewangles": [
+      -55.095165,
+      -62.064128
+    ]
+  },
+  {
+    "name": [
+      "Hay",
+      "Storage"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3314.227539,
+      467.292053,
+      0.03125
+    ],
+    "viewangles": [
+      -39.420185,
+      -50.768066
+    ],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": [
+      "B Long",
+      "B Door"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -319.179656,
+      -80.03125,
+      -31.96875
+    ],
+    "viewangles": [
+      -60.556579,
+      -117.217025
+    ]
+  },
+  {
+    "name": [
+      "B Main",
+      "Site"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -703.96875,
+      -80.710067,
+      -28.986519
+    ],
+    "viewangles": [
+      -60.061019,
+      -54.991199
+    ]
+  },
+  {
+    "name": [
+      "Rock",
+      "B Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -437.20346,
+      -880.156066,
+      -107.741394
+    ],
+    "viewangles": [
+      -19.586723,
+      39.378044
+    ]
+  },
+  {
+    "name": [
+      "Terrace stairs",
+      "B Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      751.96875,
+      -512.531127,
+      -66.294982
+    ],
+    "viewangles": [
+      -23.645725,
+      150.491958
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Bombsite B",
+      "B Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      786.495178,
+      -922.96875,
+      -108.025497
+    ],
+    "viewangles": [
+      -22.886661,
+      122.79116
+    ]
+  },
+  {
+    "name": [
+      "Halls",
+      "Dropper"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -589.69104,
+      438.240905,
+      -0.96875
+    ],
+    "viewangles": [
+      -17.903537,
+      -108.494552
+    ]
+  },
+  {
+    "name": [
+      "Catwalk",
+      "Hay"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -2863.96875,
+      560.03125,
+      0.03125
+    ],
+    "viewangles": [
+      -17.407623,
+      -13.553151
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "B Door",
+      "B Long"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -823.96875,
+      -1055.96875,
+      -124.138702
+    ],
+    "viewangles": [
+      -16.747745,
+      33.862342
+    ],
+    "grenade": {
+      "run": 18
+    }
+  },
+  {
+    "name": [
+      "Alley",
+      "Storage"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -2989.96875,
+      -945.009765,
+      32.018653
+    ],
+    "viewangles": [
+      -11.814136,
+      -13.047008
+    ]
+  },
+  {
+    "name": [
+      "B Long",
+      "Boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      47.96875,
+      -16.03125,
+      -23.177414
+    ],
+    "viewangles": [
+      -31.747638,
+      -126.045204
+    ]
+  },
+  {
+    "name": [
+      "Alley",
+      "A Door"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -2976.751464,
+      -945.554687,
+      32.03125
+    ],
+    "viewangles": [
+      -11.830625,
+      -4.695322
+    ],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": [
+      "Alley",
+      "Balcony"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -2962.763671,
+      -961.880004,
+      32.019981
+    ],
+    "viewangles": [
+      -15.708156,
+      -32.613334
+    ],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": [
+      "B Long",
+      "Terrace"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -504.03125,
+      -264.546936,
+      -32.835259
+    ],
+    "viewangles": [
+      -13.250493,
+      11.275938
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Sidewalk",
+      "Straw"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -2688.03125,
+      719.96875,
+      0.03125
+    ],
+    "viewangles": [
+      -40.492229,
+      -119.068389
+    ]
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "B Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2479.6943,
+      -1913.1399,
+      20.856899999999996
+    ],
+    "viewangles": [
+      -28.491,
+      37.1317
+    ],
+    "grenade": {
+      "run": 25,
+      "jump": true,
+      "fov": 0.09
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": [
+      "CT Spawn",
+      "T Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2026.397583,
+      -2029.96875,
+      -299.06015
+    ],
+    "viewangles": [
+      -15.3121,
+      12.573707
+    ],
+    "grenade": {
+      "jump": true
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "name": [
+      "Street",
+      "House"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      208.0018,
+      -100.0312,
+      -199.7088
+    ],
+    "viewangles": [
+      -21.175,
+      0.0457
+    ]
+  },
+  {
+    "name": [
+      "B",
+      "House"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      1568.0313,
+      115.0313,
+      -111.8355
+    ],
+    "viewangles": [
+      -22.5621,
+      127.1007
+    ]
+  },
+  {
+    "name": [
+      "Storage",
+      "A Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -731.968,
+      588.8215,
+      -159.9687
+    ],
+    "viewangles": [
+      -10.825,
+      -13.9249
+    ]
+  },
+  {
+    "name": [
+      "A",
+      "Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -955.9687,
+      912.0313,
+      -157.3789
+    ],
+    "viewangles": [
+      -4.291,
+      7.9411
+    ]
+  },
+  {
+    "name": [
+      "A",
+      "Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -1359.9987,
+      1232.0313,
+      -157.77859999999998
+    ],
+    "viewangles": [
+      -62.8549,
+      -0.7709
+    ],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": [
+      "A",
+      "A"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -994.993,
+      1467.0313,
+      -163.0789
+    ],
+    "viewangles": [
+      -2.3548,
+      96.5131
+    ]
+  },
+  {
+    "name": [
+      "CT",
+      "A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      239.9688,
+      2155.9688,
+      -133.195
+    ],
+    "viewangles": [
+      -2.476,
+      -141.3374
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Yellow House",
+      "B"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -99.9433,
+      1463.6182,
+      -189.5581
+    ],
+    "viewangles": [
+      -13.608,
+      -24.8145
+    ],
+    "grenade": {
+      "run": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "Bridge"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      643.9688,
+      1703.7316,
+      -144.9053
+    ],
+    "viewangles": [
+      -12.156,
+      -71.4703
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1644.724,
+      -1211.6599,
+      -128.9371
+    ],
+    "viewangles": [
+      -7.074,
+      70.377
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Wall",
+      "Bridge"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -105.5381,
+      -966.4177,
+      -235.0806
+    ],
+    "viewangles": [
+      -24.321,
+      60.4944
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Back of B",
+      "Shed"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1527.6115,
+      1533.3351,
+      -161.543
+    ],
+    "viewangles": [
+      -13.097,
+      -83.0276
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Street",
+      "Window"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      279.6243,
+      -329.9687,
+      -232.6499
+    ],
+    "viewangles": [
+      -46.2779,
+      34.6594
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Balcony",
+      "Yellow"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1052.0313,
+      -247.9687,
+      -35.7269
+    ],
+    "viewangles": [
+      -6.2269,
+      124.5021
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Fountain",
+      "Storage"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      207.9688,
+      -587.9687,
+      -233.0302
+    ],
+    "viewangles": [
+      -26.6759,
+      155.3621
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Fountain",
+      "Street"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -477.3989,
+      -1106.0312,
+      -205.123
+    ],
+    "viewangles": [
+      -22.32,
+      39.6664
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "A Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      239.9688,
+      2155.9758,
+      -133.19299999999998
+    ],
+    "viewangles": [
+      -41.833,
+      -129.572
+    ],
+    "grenade": {
+      "run": 15
+    }
+  }
+]

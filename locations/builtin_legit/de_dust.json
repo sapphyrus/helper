@@ -1,0 +1,129 @@
+[
+  {
+    "name": [
+      "Box",
+      "A-Site 1-Way"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      464.53622436523,
+      852.62414550781,
+      128.03125
+    ],
+    "viewangles": [
+      -12.311147689819,
+      -16.005683898926
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Box",
+      "Box FD 1-way"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      442.57968139648,
+      870.21655273438,
+      128.03125
+    ],
+    "viewangles": [
+      -16.114616394043,
+      -97.57251739502
+    ]
+  },
+  {
+    "name": [
+      "Tuns",
+      "A Site 1-Way"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1327.3305664063,
+      1209.6181640625,
+      32.03125
+    ],
+    "viewangles": [
+      -18.216203689575,
+      -45.158889770508
+    ]
+  },
+  {
+    "name": [
+      "Tuns",
+      "A Site 1-Way"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      599.56433105469,
+      870.26245117188,
+      96.0625
+    ],
+    "viewangles": [
+      3.9032151699066,
+      -15.079132080078
+    ],
+    "grenade": {
+      "run": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Arch",
+      "Triple Box 1-Way"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -765.96026611328,
+      203.05560302734,
+      32.03125
+    ],
+    "viewangles": [
+      -20.51767539978,
+      -14.992170333862
+    ]
+  },
+  {
+    "name": [
+      "Arch Boost",
+      "Barrels [sigma]"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -437.86434936523,
+      300.18032836914,
+      72.0625
+    ],
+    "viewangles": [
+      2.902672290802,
+      -65.874786376953
+    ],
+    "grenade": {
+      "run": 8,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Boost",
+      "Barrels [sigma]"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -525.28009033203,
+      500.412109375,
+      139.06243896484
+    ],
+    "viewangles": [
+      4.882839679718,
+      -65.446830749512
+    ],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  }
+]

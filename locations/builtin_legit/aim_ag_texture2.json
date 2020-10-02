@@ -1,0 +1,37 @@
+[
+  {
+    "name": [
+      "T Spawn",
+      "Edge"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -772.95,
+      1647.33,
+      1.0300000000000011
+    ],
+    "viewangles": [
+      -16.03,
+      -85.29
+    ]
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "Boxes"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -928.53,
+      80.03,
+      1.0300000000000011
+    ],
+    "viewangles": [
+      -14.58,
+      64.53
+    ],
+    "grenade": {
+      "run": 13
+    }
+  }
+]

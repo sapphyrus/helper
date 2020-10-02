@@ -1,0 +1,513 @@
+[
+  {
+    "name": [
+      "Connector",
+      "Blue train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1077.999756,
+      -753.979309,
+      -223.906189
+    ],
+    "viewangles": [
+      -45.80407,
+      143.151688
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "A1",
+      "Break Room"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1021.096924,
+      -254.988556,
+      -215.906189
+    ],
+    "viewangles": [
+      -38.494926,
+      154.562332
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "A Train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -660.665283,
+      1157.718262,
+      -216.906189
+    ],
+    "viewangles": [
+      -43.198013,
+      -44.553295
+    ]
+  },
+  {
+    "name": [
+      "T Long",
+      "A2"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1535.96875,
+      1775.96875,
+      -223.906189
+    ],
+    "viewangles": [
+      -9.818258,
+      -112.486588
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Bomb train / Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -627.772705,
+      1261.741577,
+      -216.305695
+    ],
+    "viewangles": [
+      -44.319992,
+      -53.548634
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Bomb train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -526.628235,
+      1325.40686,
+      -86.839478
+    ],
+    "viewangles": [
+      -26.41748,
+      -57.328667
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -653.999329,
+      -479.968719,
+      16.093811000000002
+    ],
+    "viewangles": [
+      -41.597443,
+      -8.42019
+    ]
+  },
+  {
+    "name": [
+      "White halls",
+      "Bomb train / Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -655.96875,
+      -399.892731,
+      16.093811000000002
+    ],
+    "viewangles": [
+      -46.002502,
+      10.89071
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Boilers",
+      "Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1159.999634,
+      -1048.001709,
+      -95.906189
+    ],
+    "viewangles": [
+      -11.023086,
+      5.091055
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Bomb train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -453.358459,
+      1286.284668,
+      -86.490753
+    ],
+    "viewangles": [
+      -25.130558,
+      -58.731426
+    ]
+  },
+  {
+    "name": [
+      "White halls",
+      "Green train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -613.161682,
+      -583.96875,
+      16.093811000000002
+    ],
+    "viewangles": [
+      -44.022999,
+      53.455647
+    ]
+  },
+  {
+    "name": [
+      "White halls",
+      "Ivy"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -655.999207,
+      -449.66864,
+      16.093811000000002
+    ],
+    "viewangles": [
+      -38.577927,
+      27.880314
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Blue train / Red train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -645.47937,
+      1697.721924,
+      -209.906189
+    ],
+    "viewangles": [
+      -41.56469,
+      -65.086685
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Ivy / Green Train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -640.027832,
+      -583.969666,
+      16.093811000000002
+    ],
+    "viewangles": [
+      -44.699406,
+      32.218452
+    ]
+  },
+  {
+    "name": [
+      "Boilers",
+      "H2 / Bomb train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1155.979004,
+      -1301.504395,
+      -95.906189
+    ],
+    "viewangles": [
+      -15.857571,
+      38.88282
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Electric box"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -645.469482,
+      1697.722534,
+      -209.908966
+    ],
+    "viewangles": [
+      -42.05962,
+      -72.308723
+    ]
+  },
+  {
+    "name": [
+      "T Long",
+      "Ivy"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1388.42627,
+      1446.000488,
+      -223.906189
+    ],
+    "viewangles": [
+      -6.188282,
+      -95.524574
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -448.614746,
+      1236.03125,
+      -86.839478
+    ],
+    "viewangles": [
+      -29.766037,
+      -58.441879
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Green train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -803.572388,
+      388.278839,
+      -215.906189
+    ],
+    "viewangles": [
+      -21.022144,
+      13.708805
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Blue train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -555.03125,
+      1262.03125,
+      -212.532227
+    ],
+    "viewangles": [
+      -68.09655,
+      -50.974125
+    ]
+  },
+  {
+    "name": [
+      "Boilers",
+      "B Upper"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1055.96875,
+      -1607.969116,
+      -151.90618899999998
+    ],
+    "viewangles": [
+      -9.076089,
+      -21.028521
+    ]
+  },
+  {
+    "name": [
+      "Boilers",
+      "H2 Lower"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1159.978027,
+      -1088.112549,
+      -95.909508
+    ],
+    "viewangles": [
+      -6.832071,
+      13.307947
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Electric box"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -481.865631,
+      1725.011597,
+      -209.906189
+    ],
+    "viewangles": [
+      -45.93708,
+      -78.790627
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Red Train / Green Train"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -838.162292,
+      1268.024414,
+      -222.906189
+    ],
+    "viewangles": [
+      -37.604507,
+      -42.064575
+    ]
+  },
+  {
+    "name": [
+      "Connector",
+      "Bombsite A"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      400.03125,
+      -420.03125,
+      -211.777573
+    ],
+    "viewangles": [
+      -28.85902,
+      -89.674629
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Upper",
+      "Boilers"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -799.032654,
+      -1731.970947,
+      -127.906189
+    ],
+    "viewangles": [
+      -13.036031,
+      0.827849
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Bombsite B",
+      "Boilers"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      50.86047,
+      -1023.914978,
+      -164.55777
+    ],
+    "viewangles": [
+      -23.860077,
+      -179.212845
+    ]
+  },
+  {
+    "name": [
+      "Boilers",
+      "Ladder"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -989.218689,
+      -1637.97937,
+      -151.90618899999998
+    ],
+    "viewangles": [
+      -10.660044,
+      -19.426443
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Break Room",
+      "Blue Train / Green Train"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -790.028748,
+      375.928741,
+      -215.906189
+    ],
+    "viewangles": [
+      -11.270589,
+      27.332729
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Break Room",
+      "Electric Box"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -750.761169,
+      304.03125,
+      -215.906189
+    ],
+    "viewangles": [
+      -3.053643,
+      51.947502
+    ],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  }
+]

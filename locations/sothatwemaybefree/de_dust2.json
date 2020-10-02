@@ -1,0 +1,849 @@
+[
+  {
+    "name": [
+      "T Spawn",
+      "Xbox"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -402.98162841797,
+      -1051.9719238281,
+      105.2699432373
+    ],
+    "viewangles": [
+      -9.200274,
+      87.5133
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Outside long",
+      "Xbox"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      757.07604980469,
+      -347.96875,
+      8.03125
+    ],
+    "viewangles": [
+      -13.943635,
+      117.891571
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "approach_accurate": false
+  },
+  {
+    "name": [
+      "Xbox",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -275.0312,
+      1345.3793,
+      -122.6583
+    ],
+    "viewangles": [
+      -35.695,
+      131.2788
+    ]
+  },
+  {
+    "name": [
+      "Long",
+      "Long Doors"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1624.519042,
+      1710.172363,
+      1.0912469999999956
+    ],
+    "viewangles": [
+      -28.464088,
+      -136.48912
+    ]
+  },
+  {
+    "name": [
+      "Car",
+      "Long Doors"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1638.609985,
+      2000.937866,
+      1.03125
+    ],
+    "viewangles": [
+      -35.821331,
+      -127.203262
+    ]
+  },
+  {
+    "name": [
+      "Middle doors",
+      "Long Doors"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -489.997467,
+      1647.03125,
+      -121.54183900000001
+    ],
+    "viewangles": [
+      -50.341461,
+      -40.048969
+    ]
+  },
+  {
+    "name": [
+      "Long (Car)",
+      "Long Doors"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1752.04956,
+      2046.932739,
+      0.3074179999999984
+    ],
+    "viewangles": [
+      -33.430305,
+      -130.546279
+    ]
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Back plateau"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1037.720703,
+      2102.03125,
+      -5.986485000000002
+    ],
+    "viewangles": [
+      -50.555747,
+      146.461196
+    ],
+    "approach_accurate": false,
+    "duck": true
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Upper Tunnel"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -985.452941,
+      2553.223876,
+      1.2668220000000048
+    ],
+    "viewangles": [
+      -26.764244,
+      -143.848251
+    ]
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "Lower tunnels / Xbox"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -242.03125,
+      2278.887695,
+      -119.99414
+    ],
+    "viewangles": [
+      -32.68748,
+      -123.649093
+    ]
+  },
+  {
+    "name": [
+      "Window",
+      "Car"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1273.96875,
+      2575.96875,
+      70.39678900000001
+    ],
+    "viewangles": [
+      -69.086502,
+      -114.275169
+    ]
+  },
+  {
+    "name": [
+      "Elevator",
+      "Short"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1004.96875,
+      2379.96875,
+      27.467903000000007
+    ],
+    "viewangles": [
+      -10.114459,
+      -150.985443
+    ]
+  },
+  {
+    "name": [
+      "Scaffold",
+      "B Tunnel"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1122.03125,
+      2691.80249,
+      88.099594
+    ],
+    "viewangles": [
+      -22.952257,
+      -135.22908
+    ]
+  },
+  {
+    "name": [
+      "Catwalk",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -149.03125,
+      1176.798217,
+      -0.5321050000000014
+    ],
+    "viewangles": [
+      -15.048999,
+      129.474685
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Top middle",
+      "Xbox"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      53.135974,
+      308.03125,
+      0.446440999999993
+    ],
+    "viewangles": [
+      -38.380016,
+      129.092971
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Outside long",
+      "Xbox"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      229.130554,
+      112.497558,
+      5.102644999999995
+    ],
+    "viewangles": [
+      -40.624023,
+      108.758316
+    ]
+  },
+  {
+    "name": [
+      "Outside long",
+      "Long"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      222.664123,
+      -87.978233,
+      9.03125
+    ],
+    "viewangles": [
+      -46.26707,
+      48.164497
+    ]
+  },
+  {
+    "name": [
+      "Blue",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      516.03125,
+      984.267517,
+      1.4971160000000054
+    ],
+    "viewangles": [
+      -56.051315,
+      88.860321
+    ]
+  },
+  {
+    "name": [
+      "Stairs",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      427.360717,
+      1749.96875,
+      4.221266999999997
+    ],
+    "viewangles": [
+      -78.094535,
+      57.979438
+    ]
+  },
+  {
+    "name": [
+      "Long",
+      "Cross"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      982.189392,
+      906.575439,
+      0.24294199999999933
+    ],
+    "viewangles": [
+      -23.364236,
+      43.652526
+    ],
+    "grenade": {
+      "run": 40
+    }
+  },
+  {
+    "name": [
+      "Short",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      189.972045,
+      1334.016235,
+      1.0837630000000047
+    ],
+    "viewangles": [
+      -15.576064,
+      66.110641
+    ]
+  },
+  {
+    "name": [
+      "Lower tunnel",
+      "CT Middle"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -538.606567,
+      1382.03125,
+      -112.019676
+    ],
+    "viewangles": [
+      -35.388038635254,
+      53.559692382813
+    ]
+  },
+  {
+    "name": [
+      "Upper tunnel",
+      "B Entrance"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1846.608398,
+      1232.60559,
+      32.424330999999995
+    ],
+    "viewangles": [
+      -8.745141,
+      119.39859
+    ]
+  },
+  {
+    "name": [
+      "Upper Tunnel",
+      "B Entrance"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1747.697143,
+      1064.03125,
+      33.987297
+    ],
+    "viewangles": [
+      -10.775292,
+      118.857086
+    ]
+  },
+  {
+    "name": [
+      "Middle",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -513.365051,
+      1101.96875,
+      -68.194664
+    ],
+    "viewangles": [
+      -16.187345,
+      77.900352
+    ],
+    "approach_accurate": false
+  },
+  {
+    "name": [
+      "Short",
+      "CT Jump"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      489.958892,
+      1446.001586,
+      0.552970000000002
+    ],
+    "viewangles": [
+      -5.743319,
+      88.280685
+    ]
+  },
+  {
+    "name": [
+      "Suicide",
+      "Middle doors"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -491.96875,
+      -593.96875,
+      2.1927490000000063
+    ],
+    "viewangles": [
+      -10.180471,
+      87.38356
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "B Tunnel",
+      "Window"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1942.03125,
+      1794.529052,
+      33.03125
+    ],
+    "viewangles": [
+      -16.021446,
+      56.012733
+    ]
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Bombsite B"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -871.96875,
+      2083.089111,
+      -79.642967
+    ],
+    "viewangles": [
+      -32.192466,
+      164.727142
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "Middle doors"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -57.96875,
+      2010.03125,
+      -121.510986
+    ],
+    "viewangles": [
+      -5.015962,
+      8.773455
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "Goose",
+      "Short"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      1051.03125,
+      2928.748046,
+      128.595932
+    ],
+    "viewangles": [
+      -79.630287,
+      -113.18267
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Window",
+      "Bombsite B"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -1273.999267,
+      2575.96875,
+      70.39685
+    ],
+    "viewangles": [
+      -41.581146,
+      1.053822
+    ]
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Middle doors"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -760.03125,
+      2066.03125,
+      -109.24653599999999
+    ],
+    "viewangles": [
+      -16.202953,
+      173.76004
+    ]
+  },
+  {
+    "name": [
+      "Bombsite A",
+      "Stairs"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      545.656738,
+      2068.03125,
+      127.03125
+    ],
+    "viewangles": [
+      -82.270004,
+      -0.616963
+    ]
+  },
+  {
+    "name": [
+      "CT Ramp",
+      "Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      914.14215,
+      2042.013061,
+      -17.081006000000002
+    ],
+    "viewangles": [
+      -24.370513,
+      -178.85379
+    ]
+  },
+  {
+    "name": [
+      "Middle",
+      "Short"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -521.96875,
+      1101.96875,
+      -67.175689
+    ],
+    "viewangles": [
+      -29.552242,
+      28.751638
+    ]
+  },
+  {
+    "name": [
+      "Lower Tunnel",
+      "Middle dors"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -522.328674,
+      1382.03125,
+      -110.96875
+    ],
+    "viewangles": [
+      -54.120803,
+      51.652709
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Xbox",
+      "Middle doors"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -275.03125,
+      1345.364135,
+      -122.790115
+    ],
+    "viewangles": [
+      -38.347152,
+      62.329086
+    ]
+  },
+  {
+    "name": [
+      "Long Doors",
+      "Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      740.96875,
+      565.96875,
+      1.312301000000005
+    ],
+    "viewangles": [
+      -62.651542,
+      53.351886
+    ]
+  },
+  {
+    "name": [
+      "Outside long",
+      "Long"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      572.03125,
+      -395.96875,
+      8.03125
+    ],
+    "viewangles": [
+      -33.133152,
+      61.396862
+    ]
+  },
+  {
+    "name": [
+      "Long",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      847.153259,
+      790.03125,
+      47.03125
+    ],
+    "viewangles": [
+      4.800274,
+      52.7133
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Backsite"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -760.03125,
+      2066.03125,
+      -109.24653599999999
+    ],
+    "viewangles": [
+      -24.124048,
+      132.783615
+    ]
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Big Box"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -760.03125,
+      2066.03125,
+      -109.24653599999999
+    ],
+    "viewangles": [
+      -21.041596,
+      166.945007
+    ],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Back plateau"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -936.489196,
+      2521.747314,
+      -24.96875
+    ],
+    "viewangles": [
+      -19.867044,
+      160.241577
+    ],
+    "approach_accurate": false
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Default"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1232.471313,
+      2575.985839,
+      69.73118500000001
+    ],
+    "viewangles": [
+      -24.156679,
+      -101.008529
+    ],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -984.909423,
+      2553.218994,
+      1.0530770000000018
+    ],
+    "viewangles": [
+      -22.044694,
+      -129.863113
+    ]
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "Default"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      531.591979,
+      2275.96875,
+      -108.627105
+    ],
+    "viewangles": [
+      -25.163286,
+      17.761819
+    ]
+  },
+  {
+    "name": [
+      "CT Middle",
+      "Default"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1037.96875,
+      2102.03125,
+      -5.880982000000003
+    ],
+    "viewangles": [
+      -22.556186,
+      115.295562
+    ]
+  },
+  {
+    "name": [
+      "Short",
+      "Default"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      343.661651,
+      1790.94226,
+      96.03125
+    ],
+    "viewangles": [
+      -15.082045,
+      57.592498
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Xbox",
+      "Middle doors"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -275.03125,
+      1345.370361,
+      -122.73085
+    ],
+    "viewangles": [
+      -32.885414,
+      134.839782
+    ]
+  }
+]

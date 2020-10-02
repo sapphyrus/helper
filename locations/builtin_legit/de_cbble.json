@@ -1,0 +1,127 @@
+[
+  {
+    "name": [
+      "Alley",
+      "Balcony"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -3375.6348,
+      -307.6114,
+      0.03130000000000166
+    ],
+    "viewangles": [
+      -25.466,
+      -40.299
+    ],
+    "grenade": {
+      "run": 48
+    }
+  },
+  {
+    "name": [
+      "Alley",
+      "Balcony"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -3375.6348,
+      -307.6114,
+      0.03130000000000166
+    ],
+    "viewangles": [
+      -25.066,
+      -40.299
+    ],
+    "grenade": {
+      "run": 40
+    }
+  },
+  {
+    "name": [
+      "B Site",
+      "Fountain"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -78.922882080078,
+      -360.09503173828,
+      -31.592777252197
+    ],
+    "viewangles": [
+      -19.492959976196,
+      -87.646461486816
+    ],
+    "grenade": {
+      "run": 11
+    }
+  },
+  {
+    "name": [
+      "B Platform",
+      "Rock"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      520.31610107422,
+      -149.59056091309,
+      0.03125
+    ],
+    "viewangles": [
+      -8.4819364547729,
+      -142.41702270508
+    ]
+  },
+  {
+    "name": [
+      "B Bombsite",
+      "B Platform"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      106.46739196777,
+      -1293.2120361328,
+      -112.66700744629
+    ],
+    "viewangles": [
+      -22.649927139282,
+      79.164329528809
+    ]
+  },
+  {
+    "name": [
+      "Rock",
+      "B Platform"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -463.41943359375,
+      -969.30200195313,
+      -121.38274383545
+    ],
+    "viewangles": [
+      -21.263990402222,
+      42.924221038818
+    ]
+  },
+  {
+    "name": [
+      "Long",
+      "Boost / Corner"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -94.200927734375,
+      -239.96891784668,
+      -31.96875
+    ],
+    "viewangles": [
+      -18.841228485107,
+      91.217147827148
+    ],
+    "grenade": {
+      "run": 16,
+      "jump": true
+    }
+  }
+]

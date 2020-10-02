@@ -1,0 +1,503 @@
+[
+  {
+    "name": [
+      "T Spawn",
+      "Sandbags (Ramp)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2278.4609375,
+      -1205.4581298828,
+      11488.03125
+    ],
+    "viewangles": [
+      -39.522012329102,
+      -4.6562826156616
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -1967.062316955,
+        -1232.3364444498,
+        12063.275077138
+      ]
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "A Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2507.96875,
+      -1258.0437011719,
+      11488.03125
+    ],
+    "viewangles": [
+      -26.065995788574,
+      2.8429770469666
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -1924.2498403057,
+        -1242.8117950342,
+        12068.299661105
+      ]
+    }
+  },
+  {
+    "name": [
+      "Side",
+      "A Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -776.15393066406,
+      -528.00006103516,
+      11799.03125
+    ],
+    "viewangles": [
+      -83.006988525391,
+      -91.575958251953
+    ]
+  },
+  {
+    "name": [
+      "Sandbags",
+      "A Ramp"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -88.031257629395,
+      -1439.96875,
+      11776.03125
+    ],
+    "viewangles": [
+      -4.7853012084961,
+      141.46431274414
+    ]
+  },
+  {
+    "name": [
+      "Scaffolding",
+      "Lobby"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1007.9780883789,
+      -1247.3264160156,
+      11750.03125
+    ],
+    "viewangles": [
+      -38.533843994141,
+      48.982681274414
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "B Window"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2400.5002441406,
+      -1426.5646972656,
+      11488.03125
+    ],
+    "viewangles": [
+      -28.732894897461,
+      81.093084716797
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -2324.3811962994,
+        -860.64842821057,
+        12069.178982682
+      ]
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "B Bombsite"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2276.9460449219,
+      -1077.3122558594,
+      11488.03125
+    ],
+    "viewangles": [
+      -57.193000793457,
+      90.517878723145
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -2282.5912224506,
+        -856.55156941079,
+        12067.215621339
+      ]
+    }
+  },
+  {
+    "name": [
+      "Pit",
+      "Back of B"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2467.04296875,
+      -334.96875,
+      11552.03125
+    ],
+    "viewangles": [
+      -26.433940887451,
+      75.568130493164
+    ]
+  },
+  {
+    "name": [
+      "Pit",
+      "B Window"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2500.96875,
+      -334.96875,
+      11552.03125
+    ],
+    "viewangles": [
+      -30.30597114563,
+      62.318939208984
+    ]
+  },
+  {
+    "name": [
+      "Pit",
+      "Doorway"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2500.96875,
+      -334.99798583984,
+      11552.03125
+    ],
+    "viewangles": [
+      -58.256935119629,
+      60.845840454102
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": [
+      "Pit",
+      "Firebox"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -2564.251953125,
+      -254.88687133789,
+      11552.03125
+    ],
+    "viewangles": [
+      -1.9919246435165,
+      90.243637084961
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Generator / Corner"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2304.0573730469,
+      -1424.7524414063,
+      11776.03125
+    ],
+    "viewangles": [
+      -40.954116821289,
+      83.528091430664
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -2283.7880967148,
+        -1245.4680338524,
+        12069.57158111
+      ],
+      "text": "Break the Windows"
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Pillar"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2304.1293945313,
+      -1424.7471923828,
+      11776.03125
+    ],
+    "viewangles": [
+      -26.434131622314,
+      85.07080078125
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -2283.7880967148,
+        -1245.4680338524,
+        12069.57158111
+      ],
+      "text": "Break the Windows"
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Close Box"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1838.5103759766,
+      -1519.6684570313,
+      11776.03125
+    ],
+    "viewangles": [
+      -11.672039031982,
+      110.0255279541
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "destroy": {
+      "end": [
+        -1942.9274917089,
+        -1232.9767172556,
+        12063.582237823
+      ]
+    }
+  },
+  {
+    "name": [
+      "T Corridor",
+      "51st Floor"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -1985.5727539063,
+      -583.32897949219,
+      11776.03125
+    ],
+    "viewangles": [
+      -24.013889312744,
+      50.294067382813
+    ]
+  },
+  {
+    "name": [
+      "A Ramp",
+      "Boxes"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -879.96826171875,
+      -1232.072265625,
+      11648.03125
+    ],
+    "viewangles": [
+      -33.880088806152,
+      48.584899902344
+    ]
+  },
+  {
+    "name": [
+      "Elevator",
+      "B Siteoxes"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -475.08666992188,
+      -272.67449951172,
+      11776.03125
+    ],
+    "viewangles": [
+      -24.442213058472,
+      -27.248086929321
+    ]
+  },
+  {
+    "name": [
+      "Middle",
+      "T Corridor Up"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -1940.7775878906,
+      472.65417480469,
+      11776.03125
+    ],
+    "viewangles": [
+      -18.343824386597,
+      -81.166473388672
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Middle"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1917.71875,
+      -652.62420654297,
+      11776.03125
+    ],
+    "viewangles": [
+      -19.360195159912,
+      90.896003723145
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Middle"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -1908.1228027344,
+      -649.52807617188,
+      11776.03125
+    ],
+    "viewangles": [
+      -19.021320343018,
+      92.733497619629
+    ]
+  },
+  {
+    "name": [
+      "Back of A",
+      "B Siteoxes"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -441.48645019531,
+      205.08277893066,
+      11776.03125
+    ],
+    "viewangles": [
+      -16.988687515259,
+      -53.046642303467
+    ],
+    "grenade": {
+      "run": 13
+    }
+  },
+  {
+    "name": [
+      "Back of A",
+      "Bombsite Left Boxes"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -441.44366455078,
+      205.0259552002,
+      11776.03125
+    ],
+    "viewangles": [
+      -15.004327774048,
+      -53.046936035156
+    ]
+  },
+  {
+    "name": [
+      "A Ramp",
+      "Bombsite Fence"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -780.34002685547,
+      -847.14581298828,
+      11607.81640625
+    ],
+    "viewangles": [
+      -80.158386230469,
+      144.48049926758
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "A Ramp",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -547.43743896484,
+      -1236.8875732422,
+      11684.216796875
+    ],
+    "viewangles": [
+      -26.579572677612,
+      57.988952636719
+    ]
+  },
+  {
+    "name": [
+      "A Site",
+      "A Ramp"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -97.668807983398,
+      -257.86883544922,
+      11776.03125
+    ],
+    "viewangles": [
+      -17.867710113525,
+      -119.53913879395
+    ]
+  },
+  {
+    "name": [
+      "Side",
+      "Sandbags"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1135.96875,
+      -1106.6950683594,
+      11776.03125
+    ],
+    "viewangles": [
+      -20.141967773438,
+      -14.434852600098
+    ]
+  }
+]

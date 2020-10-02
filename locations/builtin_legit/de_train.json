@@ -1,0 +1,378 @@
+[
+  {
+    "name": [
+      "Popdog",
+      "Default"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -647.9687,
+      -427.9687,
+      -215.9687
+    ],
+    "viewangles": [
+      -9.7193,
+      22.8749
+    ]
+  },
+  {
+    "name": [
+      "B Tunnel",
+      "B Bombsite"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1083.0845947266,
+      -1019.4850463867,
+      -55.96875
+    ],
+    "viewangles": [
+      -10.438937187195,
+      -1.1011092662811
+    ]
+  },
+  {
+    "name": [
+      "B Tunnel",
+      "Back of B"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1072.9080810547,
+      -964.69421386719,
+      -55.96875
+    ],
+    "viewangles": [
+      -6.4348859786987,
+      -11.042379379272
+    ]
+  },
+  {
+    "name": [
+      "Connector",
+      "Middle"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      616.56274414063,
+      -398.25302124023,
+      -215.96875
+    ],
+    "viewangles": [
+      -21.735977172852,
+      142.99234008789
+    ]
+  },
+  {
+    "name": [
+      "Connector",
+      "Middle"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      674.08343505859,
+      -114.95663452148,
+      -215.96875
+    ],
+    "viewangles": [
+      -15.129373550415,
+      -171.89311218262
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Middle",
+      "Heaven"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -559.025390625,
+      503.16067504883,
+      -220.5584564209
+    ],
+    "viewangles": [
+      -30.80223274231,
+      -29.293684005737
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Connector",
+      "Olof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      553.22375488281,
+      -410.20693969727,
+      -215.96875
+    ],
+    "viewangles": [
+      -20.391862869263,
+      118.56830596924
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Middle",
+      "Stop Sign"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -886.71612548828,
+      560.32305908203,
+      -215.96875
+    ],
+    "viewangles": [
+      -22.222415924072,
+      -11.087580680847
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Train 1",
+      "Ivy"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      1000.5521240234,
+      485.8684387207,
+      -219.96875
+    ],
+    "viewangles": [
+      -8.6086511611938,
+      177.69291687012
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Big Ramp",
+      "B Bombsite"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1083.8803710938,
+      -1725.0866699219,
+      -209.13835144043
+    ],
+    "viewangles": [
+      -13.98539352417,
+      162.52551269531
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "B Entrance",
+      "B Default"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1404.7637939453,
+      -877.0947265625,
+      -319.96875
+    ],
+    "viewangles": [
+      -18.933248519897,
+      -177.45460510254
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "Tunnel 1",
+      "A Plant"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      1178.9598388672,
+      479.20907592773,
+      -218.37008666992
+    ],
+    "viewangles": [
+      -12.319946289063,
+      -158.41136169434
+    ],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": [
+      "Connector",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -240.00473022461,
+      676.23010253906,
+      -215.96875
+    ],
+    "viewangles": [
+      -27.873950958252,
+      -34.518962860107
+    ]
+  },
+  {
+    "name": [
+      "Connector",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -235.91801452637,
+      417.89779663086,
+      -215.96875
+    ],
+    "viewangles": [
+      -18.864994049072,
+      -24.022232055664
+    ]
+  },
+  {
+    "name": [
+      "Electrical Box",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -266.76452636719,
+      41.217727661133,
+      -215.96875
+    ],
+    "viewangles": [
+      -20.875600814819,
+      -0.085090897977352
+    ]
+  },
+  {
+    "name": [
+      "A Site",
+      "Electrical Box"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      634.97076416016,
+      -79.568450927734,
+      -128.76844787598
+    ],
+    "viewangles": [
+      -8.8674612045288,
+      174.93426513672
+    ],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": [
+      "Electrical Box",
+      "Sniper's Nest"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -249.08059692383,
+      61.394508361816,
+      -215.96875
+    ],
+    "viewangles": [
+      -32.249889373779,
+      -20.020673751831
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Connector",
+      "A Site"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -103.19041442871,
+      418.96875,
+      -215.96875
+    ],
+    "viewangles": [
+      -6.5319952964783,
+      -53.903171539307
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "A Site",
+      "Sniper's Nest"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -194.53829956055,
+      678.49127197266,
+      -215.96875
+    ],
+    "viewangles": [
+      -8.3030786514282,
+      -48.33186340332
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -367.96875,
+      1236.0125732422,
+      -136.94927978516
+    ],
+    "viewangles": [
+      -29.942993164063,
+      -54.572006225586
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "T Main",
+      "Bomb Train"
+    ],
+    "weapon": "weapon_hegrenade",
+    "position": [
+      -915.59063720703,
+      625.35479736328,
+      -215.96875
+    ],
+    "viewangles": [
+      -17.721946716309,
+      -23.444675445557
+    ],
+    "grenade": {
+      "run": 20
+    }
+  }
+]

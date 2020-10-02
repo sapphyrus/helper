@@ -1,0 +1,173 @@
+[
+  {
+    "name": [
+      "Ramp",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1265.9665527344,
+      1011.6665649414,
+      -171.78524780273
+    ],
+    "viewangles": [
+      -4.8844518661499,
+      -22.027517318726
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Stairs",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1374.5102539063,
+      1379.1590576172,
+      0.03125
+    ],
+    "viewangles": [
+      -19.438770294189,
+      -41.002635955811
+    ],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": [
+      "Catwalk",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -861.96875,
+      957.95391845703,
+      0.03125
+    ],
+    "viewangles": [
+      -18.778038024902,
+      -45.552940368652
+    ],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": [
+      "Tunnel",
+      "Bombsite"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      665.65283203125,
+      1101.7336425781,
+      32.03125
+    ],
+    "viewangles": [
+      -6.8318691253662,
+      147.98887634277
+    ],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": [
+      "Ramp",
+      "Car"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1220.3541259766,
+      1014.8131103516,
+      -180.35527038574
+    ],
+    "viewangles": [
+      -4.1469502449036,
+      -24.883148193359
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Ramp",
+      "Up Down"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -564.94934082031,
+      638.80139160156,
+      -110.81857299805
+    ],
+    "viewangles": [
+      4.8618664741516,
+      135.27728271484
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Tunnel",
+      "Bombsite"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      657.56475830078,
+      1107.9909667969,
+      32.03125
+    ],
+    "viewangles": [
+      -5.9181690216064,
+      148.0594329834
+    ],
+    "grenade": {
+      "run": 8
+    }
+  },
+  {
+    "name": [
+      "Tunnel",
+      "Terrace"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -234.03134155273,
+      1852.0810546875,
+      32.03125
+    ],
+    "viewangles": [
+      -6.149245262146,
+      -45.364402770996
+    ],
+    "grenade": {
+      "run": 13
+    }
+  },
+  {
+    "name": [
+      "Tunnel",
+      "Bombsite"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      695.97412109375,
+      1296.2904052734,
+      32.03125
+    ],
+    "viewangles": [
+      -6.3803915977478,
+      -160.1443939209
+    ],
+    "grenade": {
+      "run": 9
+    }
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "name": [
+      "T Spawn",
+      "CT Red"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -916.118713,
+      -1143.96875,
+      -415.917816
+    ],
+    "viewangles": [
+      -18.249531,
+      -14.669739
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "tickrate": [
+      128
+    ]
+  },
+  {
+    "name": [
+      "CT Spawn",
+      "Outside T"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1664.03125,
+      -280.002014,
+      -351.90625
+    ],
+    "viewangles": [
+      -25.048063,
+      -135.212463
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Garage"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -891.998962,
+      -1168.323486,
+      -413.906189
+    ],
+    "viewangles": [
+      -17.572639,
+      -17.452114
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Ramp",
+      "Ramp (Oneway)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      504.03125,
+      322.03125,
+      -353.906189
+    ],
+    "viewangles": [
+      -45.82119,
+      -155.001831
+    ],
+    "grenade": {
+      "strength": 0
+    },
+    "duck": true
+  },
+  {
+    "name": [
+      "Secret",
+      "Secret (Oneway)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      1370.326782,
+      -2447.993164,
+      -452.117767
+    ],
+    "viewangles": [
+      37.305859,
+      -88.044754
+    ],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": [
+      "T Roof",
+      "Main"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      191.239517,
+      -666.6203,
+      -49.96875
+    ],
+    "viewangles": [
+      -44.963455,
+      -63.246429
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Outside T",
+      "CT Blue"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      29.047176,
+      -2006.68872,
+      -416.060058
+    ],
+    "viewangles": [
+      -22.820426,
+      22.907543
+    ]
+  },
+  {
+    "name": [
+      "T Roof",
+      "Red box"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -533.003357,
+      -833.215759,
+      -193.634827
+    ],
+    "viewangles": [
+      -30.904673,
+      -43.816589
+    ]
+  },
+  {
+    "name": [
+      "T Roof",
+      "Garage"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -363.668243,
+      -1443.45105,
+      -287.90618900000004
+    ],
+    "viewangles": [
+      -31.120029,
+      -14.295693
+    ]
+  },
+  {
+    "name": [
+      "T Roof",
+      "Main"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -263.96875,
+      -280.004791,
+      -171.96875
+    ],
+    "viewangles": [
+      -56.84354,
+      -53.141292
+    ]
+  },
+  {
+    "name": [
+      "Silo",
+      "Heaven"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      63.791461,
+      -1430.71936,
+      -89.967514
+    ],
+    "viewangles": [
+      -23.909503,
+      49.210807
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "Silo",
+      "Heaven"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -0.199966,
+      -1390.099487,
+      -165.91314599999998
+    ],
+    "viewangles": [
+      -28.628398,
+      46.570835
+    ]
+  },
+  {
+    "name": [
+      "T Roof",
+      "Main"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      4.03125,
+      -280.03125,
+      -171.96875
+    ],
+    "viewangles": [
+      -26.10391,
+      -64.047966
+    ]
+  },
+  {
+    "name": [
+      "Outside T",
+      "Yard"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -423.996399,
+      -1753.002075,
+      -415.914856
+    ],
+    "viewangles": [
+      -2.624159,
+      -50.804165
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "T Roof",
+      "Bombsite A Silos"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -66.113197,
+      -493.03125,
+      -171.96875
+    ],
+    "viewangles": [
+      -30.592041,
+      -11.558738
+    ]
+  },
+  {
+    "name": [
+      "Trophy",
+      "Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      251.96875,
+      -449.96875,
+      -415.906189
+    ],
+    "viewangles": [
+      0.263093,
+      122.864441
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "T Roof",
+      "Secret entrance"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -438.052002,
+      -1060.469238,
+      -156.65618899999998
+    ],
+    "viewangles": [
+      -14.751043,
+      -37.170055
+    ]
+  },
+  {
+    "name": [
+      "Silo",
+      "Secret entrance"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      63.064407,
+      -1430.763794,
+      -89.906189
+    ],
+    "viewangles": [
+      2.540244,
+      -31.097244
+    ]
+  },
+  {
+    "name": [
+      "Outside T",
+      "Garage"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -164.092941,
+      -1954.733765,
+      -415.916107
+    ],
+    "viewangles": [
+      -13.613587,
+      1.278547
+    ]
+  },
+  {
+    "name": [
+      "T Roof",
+      "Bombsite A"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -31.097145,
+      -338.03125,
+      -81.987052
+    ],
+    "viewangles": [
+      -20.048551,
+      -31.325691
+    ]
+  },
+  {
+    "name": [
+      "T Roof",
+      "Back vent"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      18.718719,
+      -941.691406,
+      -21.968758
+    ],
+    "viewangles": [
+      -13.184523,
+      -23.960027
+    ],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": [
+      "T Roof",
+      "Hut roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      27.339481,
+      -952.648254,
+      -21.968758
+    ],
+    "viewangles": [
+      -7.030034,
+      -35.403511
+    ],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": [
+      "T Roof",
+      "Default (Bombsite A)"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -136.548004,
+      -592.182556,
+      -105.96875
+    ],
+    "viewangles": [
+      -24.272499,
+      0.58521
+    ],
+    "grenade": {
+      "run": 20
+    }
+  }
+]
