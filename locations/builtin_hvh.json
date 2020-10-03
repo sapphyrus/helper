@@ -1,0 +1,5 @@
+{
+	"name": "Built-in (HvH)",
+	"description": "HvH mollys, nades and oneways",
+	"url_format": "https://raw.githubusercontent.com/sapphyrus/helper/master/locations/builtin_hvh/%map%.json"
+}
