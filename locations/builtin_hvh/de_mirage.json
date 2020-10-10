@@ -1,0 +1,96 @@
+[
+  {
+    "name": [
+      "Middle",
+      "Palace Alley"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      139.70625305176,
+      -441.12103271484,
+      -167.10604858398
+    ],
+    "viewangles": [
+      -26.526124954224,
+      -42.720581054688
+    ]
+  },
+  {
+    "name": [
+      "Stairs",
+      "T Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -249.08227539063,
+      -1541.7243652344,
+      -53.96875
+    ],
+    "viewangles": [
+      -2.1679363250732,
+      0.061895549297333
+    ],
+    "grenade": {
+      "run": 22,
+      "jump": true,
+      "strength": 0
+    }
+  },
+  {
+    "name": [
+      "Stairs",
+      "T Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -440.89337158203,
+      -1528.9877929688,
+      -39.96875
+    ],
+    "viewangles": [
+      -18.205924987793,
+      -0.44627070426941
+    ]
+  },
+  {
+    "name": [
+      "Balcony",
+      "T Roof"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      26.670545578003,
+      -1799.0821533203,
+      -63.175369262695
+    ],
+    "viewangles": [
+      -1.6290085315704,
+      71.881271362305
+    ],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "T Roof",
+      "A Boxes"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      651.77740478516,
+      -1128.03125,
+      -127.96875
+    ],
+    "viewangles": [
+      1.54004955291748,
+      -138.22821044922
+    ],
+    "grenade": {
+      "run": 1,
+      "run_yaw": 180,
+      "jump": true
+    }
+  }
+]
