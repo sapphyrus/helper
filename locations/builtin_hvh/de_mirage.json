@@ -92,5 +92,47 @@
       "run_yaw": 180,
       "jump": true
     }
+  },
+  {
+    "name": [
+      "T Roof",
+      "Scaffolding Box"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      691.63653564453,
+      -1130.1051025391,
+      -127.96875
+    ],
+    "viewangles": [
+      -1.8710323572159,
+      -136.26739501953
+    ],
+    "grenade": {
+      "run": 2,
+      "jump": true,
+      "strength": 0.5,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": [
+      "Under Window",
+      "Connector"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -789.01159667969,
+      -712.47418212891,
+      -267.52349853516
+    ],
+    "viewangles": [
+      -18.119516372681,
+      -50.747180938721
+    ],
+    "grenade": {
+      "run": 15,
+      "recovery_yaw": -90
+    }
   }
 ]
