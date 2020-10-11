@@ -198,5 +198,17 @@
     "grenade": {
       "run": 19
     }
+  },
+  {
+    "name": ["Kitchen", "Truck"],
+    "weapon": "weapon_molotov",
+    "position": [-1678.71484375, -695.95239257813, -167.96875],
+    "viewangles": [12.770328521729, 115.73452758789],
+    "grenade": {
+      "run_yaw": 9,
+      "recovery_yaw": -90,
+      "run": 23,
+      "jump": true
+    }
   }
 ]
