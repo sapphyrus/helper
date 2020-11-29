@@ -6,18 +6,22 @@ Public repo for GS grenade helper, including files that are streamed live
 {
 	"name": ["T Roof", "Scaffolding Box"], // array of from and to, alternatively a single string
 	"description": "Jump on the left box for a good one-way", //optionally, a description can be given
-	"weapon": "weapon_smokegrenade", // weapon console name, can also be an array of console names
+	"weapon": "weapon_smokegrenade", // weapon console name
 	"position": [691.63653564453, -1130.1051025391, -127.96875], // origin
 	"position_visibility": [-44, 0, 0], // offset to origin for world vischeck, defaults to [0, 0, 0]
 	"viewangles": [-1.8710323572159, -136.26739501953], // pitch, yaw
 	"duck": true, // true = have to be fully ducked, defaults to false
 	"tickrate": 128, // number: all tickrates supported, array: the only tickrates supported
+	"approach_accurate": true, // full speed movement during approach, auto-checked by default
 	"grenade": {
 		"strength": 0.5, // required m_flThrowStrength to autothrow, 1=left, 0.5 = right+left, 0 = right
 		"fov": 0.3, // have to be in this fov to autothrow
 		"jump": true, // jumpthrow at the end of running
 		"run": 12, // run duration in seconds/64
-		"run_yaw": 0 // offset to viewangles for move yaw
+		"run_yaw": 0, // offset to viewangles for move yaw
+		"run_speed": true, // hold IN_SPEED (shift) during pre-throw run, defaults to false
+		"recovery_yaw": 90, // yaw for movement after throw, only rage aimbot mode. Defaults to run_yaw-180
+		"delay": 5 // delay before throwing, useful for getting the max height in a jumpthrow. Defaults to 0
 	},
 	"destroy": { // a breakable world object has to be destroyed before autothrowing / playback
 		"start": [392.701141, -1442.725342, 1936.63842], // trace_line starts from here
@@ -33,7 +37,7 @@ movement recordings are saved like this:
 ```js
 {
 	"name": ["T Roof", "Scaffolding Box"], // array of from and to, alternatively a single string
-	"weapon": "weapon_molotov", // weapon console name, can also be an array of console names
+	"weapon": "weapon_molotov", // weapon console name
 	"position": [691.63653564453, -1130.1051025391, -127.96875], // origin
 	"position_visibility": [-44, 0, 0], // offset to origin for world vischeck, defaults to [0, 0, 0]
 	"viewangles": [-1.8710323572159, -136.26739501953], // pitch, yaw
@@ -49,8 +53,7 @@ movement recordings are saved like this:
 			[
 				0.1826, // pitch delta, defaults to 0
 				0.3512, // yaw delta, defaults to 0
-				"WA" // buttons pressed this frame, defaults to ""
-				"D", // buttons released this frame, defaults to ""
+				"WAd" // buttons pressed / released this frame, uppercase = pressed, lowercase = released
 				450, // forwardmove, defaults to whatever the buttons would result in
 				-450, // sidemove, defaults to whatever the buttons would result in
 			],
@@ -66,8 +69,7 @@ movement recordings are saved like this:
 			[
 				0,
 				0,
-				"",
-				"WA"
+				"wa"
 			]
 		]
 	}
