@@ -14,6 +14,9 @@
       -9.200274,
       87.5133
     ],
+    "tickrate": [
+      64
+    ],
     "grenade": {
       "jump": true
     }
@@ -32,6 +35,9 @@
     "viewangles": [
       -13.943635,
       117.891571
+    ],
+    "tickrate": [
+      64
     ],
     "grenade": {
       "jump": true
@@ -52,7 +58,13 @@
     "viewangles": [
       -35.695,
       131.2788
-    ]
+    ],
+    "tickrate": [
+      64
+    ],
+    "grenade": {
+      "jump": true
+    }
   },
   {
     "name": [
@@ -127,14 +139,14 @@
     "position": [
       -1037.720703,
       2102.03125,
-      -5.986485000000002
+      -23.986485000000002
     ],
     "viewangles": [
       -50.555747,
       146.461196
     ],
-    "approach_accurate": false,
-    "duck": true
+    "duck": true,
+    "approach_accurate": false
   },
   {
     "name": [
@@ -251,7 +263,7 @@
       129.092971
     ],
     "grenade": {
-      "run": 20
+      "run": 19
     }
   },
   {
@@ -450,7 +462,7 @@
       87.38356
     ],
     "grenade": {
-      "run": 20
+      "run": 19
     }
   },
   {
@@ -688,6 +700,9 @@
       4.800274,
       52.7133
     ],
+    "tickrate": [
+      64
+    ],
     "grenade": {
       "jump": true
     }
@@ -827,7 +842,7 @@
       57.592498
     ],
     "grenade": {
-      "run": 20
+      "run": 19
     }
   },
   {

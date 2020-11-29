@@ -1,0 +1,652 @@
+[
+  {
+    "name": [
+      "T Spawn",
+      "Ivy / Yellow"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1418.02893,
+      -1599.96875,
+      11519.742187
+    ],
+    "viewangles": [
+      -80.988517,
+      49.358646
+    ],
+    "tickrate": [
+      64
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Bombsite B"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2413.689697,
+      -1221.895263,
+      11488.03125
+    ],
+    "viewangles": [
+      -47.120609,
+      81.292861
+    ],
+    "tickrate": [
+      64
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "Connector",
+      "Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -919.028198,
+      -12.675894,
+      11776.03125
+    ],
+    "viewangles": [
+      -27.485994,
+      -84.246994
+    ],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": [
+      "Back A",
+      "Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -184.903869,
+      -80.008354,
+      11776.03125
+    ],
+    "viewangles": [
+      -28.424808,
+      -105.185066
+    ],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": [
+      "Boost",
+      "Hell"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1394.031005,
+      673.03125,
+      11841.02246
+    ],
+    "viewangles": [
+      -35.324188,
+      -156.798965
+    ]
+  },
+  {
+    "name": [
+      "Back A",
+      "A Side"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -63.03125,
+      -80.03125,
+      11776.03125
+    ],
+    "viewangles": [
+      -15.442534,
+      -132.427185
+    ]
+  },
+  {
+    "name": [
+      "Bombsite B",
+      "Bombsite B (Oneway)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2064.161865,
+      887.116882,
+      11829.03125
+    ],
+    "viewangles": [
+      33.267467,
+      -143.915481
+    ]
+  },
+  {
+    "name": [
+      "Bombsite B",
+      "B Stairs"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2099.051025,
+      917.010131,
+      11787.271484
+    ],
+    "viewangles": [
+      7.718854,
+      -109.928771
+    ]
+  },
+  {
+    "name": [
+      "Back A",
+      "Top Ramp"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -495.208831,
+      238.96875,
+      11776.03125
+    ],
+    "viewangles": [
+      -60.241573,
+      -83.994674
+    ]
+  },
+  {
+    "name": [
+      "Boost",
+      "Shaft"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1490.32666,
+      365.96875,
+      11783.504882
+    ],
+    "viewangles": [
+      -15.396127,
+      -150.757522
+    ]
+  },
+  {
+    "name": [
+      "Boost",
+      "Shaft"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1389.96875,
+      411.92453,
+      11776.03125
+    ],
+    "viewangles": [
+      -22.464897,
+      -152.477737
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "A Side / Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -656.03125,
+      -1016.96875,
+      11648.03125
+    ],
+    "viewangles": [
+      -11.550436,
+      142.815597
+    ],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Bombsite B (Right)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2533.96875,
+      -3.96875,
+      11552.03125
+    ],
+    "viewangles": [
+      -73.859252,
+      53.2858
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Generator (Left)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2533.96875,
+      -3.968752,
+      11552.03125
+    ],
+    "viewangles": [
+      -65.030952,
+      53.533946
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Bombsite B (Left)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2128.03125,
+      -90.759925,
+      11580.915039
+    ],
+    "viewangles": [
+      -35.10894,
+      125.554244
+    ]
+  },
+  {
+    "name": [
+      "Shaft",
+      "Boost"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1969.96875,
+      -273.530853,
+      11799.03125
+    ],
+    "viewangles": [
+      -13.840722,
+      50.474876
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "Default"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -879.96875,
+      -1026.109375,
+      11648.03125
+    ],
+    "viewangles": [
+      -74.182281,
+      33.275341
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -656.03125,
+      -1108.03125,
+      11648.03125
+    ],
+    "viewangles": [
+      -74.055709,
+      69.450859
+    ]
+  },
+  {
+    "name": [
+      "Yellow",
+      "Back A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1007.96875,
+      -1140.03125,
+      11751.049804
+    ],
+    "viewangles": [
+      -51.0018,
+      45.898246
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Boost"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2470.96875,
+      -295.96875,
+      11664.03125
+    ],
+    "viewangles": [
+      -44.906421,
+      38.779991
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2500.96875,
+      -295.997741,
+      11706.03125
+    ],
+    "viewangles": [
+      -45.014213,
+      47.327224
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "Heaven"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -703.67041,
+      -1108.03125,
+      11648.03125
+    ],
+    "viewangles": [
+      -58.920387,
+      68.085655
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Dry"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1989.074951,
+      -1199.03125,
+      11583.572265
+    ],
+    "viewangles": [
+      -57.457408,
+      84.86576
+    ]
+  },
+  {
+    "name": [
+      "Yellow",
+      "Bombsite A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1007.96875,
+      -1140.031372,
+      11751.043945
+    ],
+    "viewangles": [
+      -68.391815,
+      35.232265
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Generator / Suicide"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2528.96875,
+      -186.377471,
+      11552.03125
+    ],
+    "viewangles": [
+      -58.116226,
+      57.784584
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "A Side / Connector"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -879.96875,
+      -1295.96875,
+      11648.03125
+    ],
+    "viewangles": [
+      -72.454002,
+      59.804134
+    ]
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Bombsite B (Right)"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2352.96875,
+      -618.202819,
+      11488.03125
+    ],
+    "viewangles": [
+      -54.096405,
+      88.377182
+    ]
+  },
+  {
+    "name": [
+      "Dry",
+      "Boost"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1947.530883,
+      -295.96875,
+      11799.03125
+    ],
+    "viewangles": [
+      -14.488352,
+      53.682701
+    ]
+  },
+  {
+    "name": [
+      "Catwalk",
+      "Ninja"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1047.96875,
+      -1479.96875,
+      11776.03125
+    ],
+    "viewangles": [
+      -56.699642,
+      55.760299
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Closest"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2470.96875,
+      -295.96875,
+      11664.03125
+    ],
+    "viewangles": [
+      -43.685836,
+      52.171569
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Pillar"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -2528.96875,
+      -186.352325,
+      11552.03125
+    ],
+    "viewangles": [
+      -42.258342,
+      70.491676
+    ]
+  },
+  {
+    "name": [
+      "Dry",
+      "CT Spawn"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1969.96875,
+      -72.167251,
+      11776.03125
+    ],
+    "viewangles": [
+      -11.484479,
+      26.352836
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "Back A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -879.96875,
+      -1295.96875,
+      11648.03125
+    ],
+    "viewangles": [
+      -59.579524,
+      59.718246
+    ]
+  },
+  {
+    "name": [
+      "Ramp",
+      "Bombsite A"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -841.969726,
+      -1359.96875,
+      11648.03125
+    ],
+    "viewangles": [
+      -30.997188,
+      52.633319
+    ]
+  },
+  {
+    "name": [
+      "Connector",
+      "Middle"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -944.98114,
+      -464.981048,
+      11777.03125
+    ],
+    "viewangles": [
+      -15.411795,
+      95.434448
+    ],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": [
+      "Bombsite A",
+      "Top Ramp"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -375.563995,
+      -154.949966,
+      11758.03125
+    ],
+    "viewangles": [
+      -9.575193,
+      -89.360061
+    ],
+    "duck": true
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Bombsite B"
+    ],
+    "weapon": "weapon_flashbang",
+    "position": [
+      -2352.96875,
+      -618.584167,
+      11488.03125
+    ],
+    "viewangles": [
+      -52.880008,
+      74.311256
+    ]
+  },
+  {
+    "name": [
+      "B Stairs",
+      "Quad"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -2264.424316,
+      -200.03125,
+      11624.24707
+    ],
+    "viewangles": [
+      -27.701234,
+      103.709472
+    ]
+  },
+  {
+    "name": [
+      "Dry",
+      "Boost"
+    ],
+    "weapon": "weapon_molotov",
+    "position": [
+      -1969.96875,
+      -273.530853,
+      11799.03125
+    ],
+    "viewangles": [
+      -14.599126,
+      54.72467
+    ]
+  }
+]
