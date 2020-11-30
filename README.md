@@ -103,6 +103,7 @@ alternatively, there is a version of this where locations are fetched per-map to
 	"update_timestamp": 1596507260, // update timestamp, will be shown in menu
 	// url where to get the map data from, %map% will be replaced with the map name
 	// a map will always be fetched when loading. Content-Type is ignored but status has to be 200 OK
+	"url_format": "https://raw.githubusercontent.com/sapphyrus/helper/master/maps/%map%",
 	"locations": {
 		"de_dust2old": "de_dust2" // this allows you to re-map mapnames
 	}
