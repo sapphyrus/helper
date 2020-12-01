@@ -1338,7 +1338,7 @@
     }
   },
   {
-    "name": ["T Apts", "Apartment Balcony"],
+    "name": ["T Apts", "B Balcony"],
     "weapon": "weapon_smokegrenade",
     "position": [459.99105834961, 679.99993896484, -123.96875],
     "viewangles": [-43.579734802246, 179.51657104492],
