@@ -999,7 +999,8 @@
       116.691383
     ],
     "grenade": {
-      "run": 10
+      "run": 10,
+      "run_speed": true
     }
   },
   {
