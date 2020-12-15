@@ -1,5 +1,6 @@
 {
 	"name": "Built-in (Movement)",
 	"description": "Movement locations for popular maps",
+  	"update_timestamp": 1608068050,
 	"url_format": "https://raw.githubusercontent.com/sapphyrus/helper/master/locations/builtin_movement/%map%.json"
 }
