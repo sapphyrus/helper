@@ -45,27 +45,20 @@
     "approach_accurate": false
   },
   {
-    "name": [
+   "name":[
       "Xbox",
       "CT Spawn"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
+   ],
+   "weapon":"weapon_smokegrenade",
+   "position":[
       -275.03125,
-      1345.3767089844,
-      -122.68151092529
-    ],
-    "viewangles": [
-      -37.277671813965,
-      133.11894226074
-    ],
-    "grenade": {
-      "delay": 3,
-      "jump": true
-    },
-    "tickrate": [
-      64
-    ]
+      1345.4389648438,
+      -122.17305755615
+   ],
+   "viewangles":[
+      -35.754417419434,
+      131.03016662598
+   ]
   },
   {
     "name": [
@@ -82,6 +75,26 @@
       -28.464088,
       -136.48912
     ]
+  },
+{
+   "name":[
+      "Upper Tunnel",
+      "Window"
+   ],
+   "weapon":"weapon_smokegrenade",
+   "position":[
+      -2185.9895019531,
+      1059.0029296875,
+      39.801902770996
+   ],
+   "viewangles":[
+      -25.361642837524,
+      67.402786254883
+   ],
+   "grenade":{
+      "jump":true
+   },
+   "duck":true
   },
   {
     "name": [
