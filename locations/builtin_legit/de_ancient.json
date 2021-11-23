@@ -203,15 +203,6 @@
     "viewangles": [-22.700555801392, -52.222724914551]
   },
   {
-    "name": ["CT Spawn", "A Main"],
-    "weapon": "weapon_smokegrenade",
-    "position": [-66.03125, 1515.96875, 37.118057250977],
-    "viewangles": [-21.833629608154, -148.43955993652],
-    "grenade": {
-      "jump": true
-    }
-  },
-  {
     "name": ["T Side A Main", "A Site CT"],
     "weapon": "weapon_smokegrenade",
     "position": [-2143.9948730469, -953.75701904297, -19.96875],
