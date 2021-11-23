@@ -800,5 +800,20 @@
       "grenade": {
         "run": 33
       }
+    },
+   {
+      "name": ["Temple Side Entrance", "A Main"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1598.142578125, 1187.96875, 52.03125],
+      "viewangles": [-10.295971870422, -121.00193786621]
+    },
+    {
+      "name": ["Temple Side Entrance", "A Main"],
+      "weapon": "weapon_molotov",
+      "position": [-1598.1224365234, 1187.96875, 52.03125],
+      "viewangles": [-10.318572998047, -120.95758056641],
+      "grenade": {
+        "run": 1
+      }
     }
 ]
