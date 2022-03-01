@@ -83,24 +83,14 @@
     }
   },
   {
-    "name": [
-      "Middle",
-      "Heaven"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      -559.025390625,
-      503.16067504883,
-      -220.5584564209
-    ],
-    "viewangles": [
-      -30.80223274231,
-      -29.293684005737
-    ],
-    "grenade": {
-      "run": 20
-    }
-  },
+  "name": ["T Main", "Heaven"],
+  "weapon": "weapon_molotov",
+  "position": [-551.83190917969, 507.51113891602, -220.88580322266],
+  "viewangles": [-28.644062042236, -32.668319702148],
+  "grenade": {
+    "run": 15
+  }
+},
   {
     "name": [
       "Connector",
