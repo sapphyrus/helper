@@ -6,13 +6,13 @@
     ],
     "weapon": "weapon_smokegrenade",
     "position": [
-      -1418.02893,
-      -1599.96875,
-      11519.742187
+      -1418.03125,
+      -1599.98852,
+      11489.03125
     ],
     "viewangles": [
-      -80.988517,
-      49.358646
+      -80.462776,
+      48.072929
     ],
     "tickrate": [
       64
@@ -20,6 +20,29 @@
     "grenade": {
       "jump": true
     }
+  },
+  {
+    "name": [
+      "T Spawn",
+      "Ivy / Yellow"
+    ],
+    "weapon": "weapon_smokegrenade",
+    "position": [
+      -1418.03125,
+      -1599.98852,
+      11489.03125
+    ],
+    "viewangles": [
+      -81.047897,
+      57.383118
+    ],
+    "tickrate": [
+      64
+    ],
+    "grenade": {
+      "jump": true
+    },
+    "description": "less cover"
   },
   {
     "name": [
@@ -592,8 +615,8 @@
     "weapon": "weapon_flashbang",
     "position": [
       -375.563995,
-      -154.949966,
-      11758.03125
+      -154.941177,
+      11776.031250
     ],
     "viewangles": [
       -9.575193,
