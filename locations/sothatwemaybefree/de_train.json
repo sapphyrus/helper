@@ -22,6 +22,12 @@
     }
   },
   {
+    "name": ["Upper", "B Halls"],
+    "weapon": "weapon_flashbang",
+    "position": [-33.725269317627, -1086.5805664063, -168.42404174805],
+    "viewangles": [-19.844577789307, 175.93598937988]
+  },
+  {
     "name": [
       "A1",
       "Break Room"
