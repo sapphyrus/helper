@@ -1,731 +1,299 @@
 [
   {
-    "name": [
-      "Dumpster",
-      "Checkers"
-    ],
+    "name": ["Dumpster", "Checkers"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      1316.96875,
-      -188.006256,
-      1643.628417
-    ],
-    "viewangles": [
-      -26.441141,
-      -176.443115
-    ],
+    "position": [1316.96875, -188.0133972168, 1612.9107666016],
+    "viewangles": [-26.44114112854, -176.44311523438],
+    "grenade": {
+      "jump": true
+    },
     "tickrate": [
       64
-    ],
+    ]
+  },
+  {
+    "name": ["Heaven", "B Hall"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-461.03125, -764.96875, 1796.9625244141],
+    "viewangles": [-13.905433, 37.218048]
+  },
+  {
+    "name": ["Connector", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-739.00335693359, 219.57995605469, 1614.6898193359],
+    "viewangles": [-19.002843, 2.317352]
+  },
+  {
+    "name": ["Truck", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-904.03125, 1095.2121582031, 1687.03125],
+    "viewangles": [-17.385854, 22.034133]
+  },
+  {
+    "name": ["Heaven", "B Hall"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-616.93713378906, -764.96875, 1796.03125],
+    "viewangles": [11.149349212646, 2.9960980415344]
+  },
+  {
+    "name": ["Sand bags", "Boost"],
+    "weapon": "weapon_smokegrenade",
+    "position": [62.96875, -77.031257629395, 1618.0323486328],
+    "viewangles": [-37.390441894531, 52.643924713135]
+  },
+  {
+    "name": ["Connector", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-376.03125, 220.33609008789, 1757.53125],
+    "viewangles": [7.993346, 1.546884]
+  },
+  {
+    "name": ["Spools", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-320.96875, 509.0129699707, 1623.1845703125],
+    "viewangles": [-4.650063, -12.569368]
+  },
+  {
+    "name": ["Truck", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-783.09948730469, 1111.03125, 1687.0318603516],
+    "viewangles": [-11.410649, 24.097654]
+  },
+  {
+    "name": ["Heaven", "B Hall"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-311.96875, -472.03125, 1796.03125],
+    "viewangles": [11.443574, -22.884422]
+  },
+  {
+    "name": ["Bombsite B", "B Hall"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-127.03125762939, -992.09344482422, 1614.3826904297],
+    "viewangles": [-6.652064, 49.682537]
+  },
+  {
+    "name": ["Connector", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-342.12014770508, 44.96875, 1665.03125],
+    "viewangles": [-1.41604, 10.802223]
+  },
+  {
+    "name": ["Squeaky", "Forklift \/ Default"],
+    "weapon": "weapon_smokegrenade",
+    "position": [153.02253723145, 2253.9873046875, 1688.03125],
+    "viewangles": [-7.114242, -64.988059],
     "grenade": {
+      "run": 19
+    }
+  },
+  {
+    "name": ["Long", "Default"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1318.96875, 1356.0196533203, 1771.03125],
+    "viewangles": [-48.617641, 175.125732]
+  },
+  {
+    "name": ["T Spawn", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2705.8405761719, 15.145352363586, 1613.03125],
+    "viewangles": [-11.319011688232, -179.07775878906],
+    "grenade": {
+      "run": 28,
       "jump": true
     }
   },
   {
-    "name": [
-      "Heaven",
-      "B Hall"
-    ],
+    "name": ["Main", "Forklift \/ Default"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      -461.03125,
-      -764.96875,
-      1796.962524
-    ],
-    "viewangles": [
-      -13.905433,
-      37.218048
-    ]
-  },
-  {
-    "name": [
-      "Connector",
-      "Garage"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -739.003356,
-      219.579956,
-      1614.689819
-    ],
-    "viewangles": [
-      -19.002843,
-      2.317352
-    ]
-  },
-  {
-    "name": [
-      "Truck",
-      "Main"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -904.03125,
-      1095.212158,
-      1687.03125
-    ],
-    "viewangles": [
-      -17.385854,
-      22.034133
-    ]
-  },
-  {
-    "name": [
-      "Heaven",
-      "B Hall"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -616.811157,
-      -764.96875,
-      1778.03125
-    ],
-    "viewangles": [
-      -14.475271,
-      14.987171
-    ],
-    "duck": true
-  },
-  {
-    "name": [
-      "Sand bags",
-      "Boost"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      67.96875,
-      -77.03125,
-      1626.03125
-    ],
-    "viewangles": [
-      -37.390441,
-      52.643924
-    ]
-  },
-  {
-    "name": [
-      "Connector",
-      "Garage"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -376.03125,
-      220.33609,
-      1757.53125
-    ],
-    "viewangles": [
-      7.993346,
-      1.546884
-    ]
-  },
-  {
-    "name": [
-      "Spools",
-      "Garage"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -320.96875,
-      509.012969,
-      1623.18457
-    ],
-    "viewangles": [
-      -4.650063,
-      -12.569368
-    ]
-  },
-  {
-    "name": [
-      "Truck",
-      "Main"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -783.099487,
-      1111.03125,
-      1687.03186
-    ],
-    "viewangles": [
-      -11.410649,
-      24.097654
-    ]
-  },
-  {
-    "name": [
-      "Heaven",
-      "B Hall"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -311.96875,
-      -472.03125,
-      1796.03125
-    ],
-    "viewangles": [
-      11.443574,
-      -22.884422
-    ]
-  },
-  {
-    "name": [
-      "Bombsite B",
-      "B Hall"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -127.031257,
-      -992.093444,
-      1614.38269
-    ],
-    "viewangles": [
-      -6.652064,
-      49.682537
-    ]
-  },
-  {
-    "name": [
-      "Connector",
-      "Garage"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -342.120147,
-      44.96875,
-      1665.03125
-    ],
-    "viewangles": [
-      -1.41604,
-      10.802223
-    ]
-  },
-  {
-    "name": [
-      "Squeaky",
-      "Forklift / Default"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      153.022537,
-      2253.987304,
-      1688.03125
-    ],
-    "viewangles": [
-      -7.114242,
-      -64.988059
-    ],
+    "position": [761.96875, 1295.8255615234, 1702.03125],
+    "viewangles": [-3.941893, 128.229553],
     "grenade": {
       "run": 19
     }
   },
   {
-    "name": [
-      "Long",
-      "Default"
-    ],
+    "name": ["Toxic", "Hell"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      1318.96875,
-      1356.019653,
-      1771.03125
-    ],
-    "viewangles": [
-      -48.617641,
-      175.125732
-    ]
+    "position": [957.03125, -1464.9879150391, 1648.03125],
+    "viewangles": [-25.594074, 162.566284]
   },
   {
-    "name": [
-      "T Spawn",
-      "Connector"
-    ],
+    "name": ["Long", "Forklift"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      2705.840576,
-      15.145352,
-      1613.03125
-    ],
-    "viewangles": [
-      -11.241786,
-      -179.000595
-    ],
-    "grenade": {
-      "jump": true,
-      "run": 19
-    }
+    "position": [1311.96875, 1584.96875, 1707.03125],
+    "viewangles": [-48.740818, -177.95436]
   },
   {
-    "name": [
-      "Main",
-      "Forklift / Default"
-    ],
+    "name": ["Long", "NBK"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      761.96875,
-      1295.825561,
-      1702.03125
-    ],
-    "viewangles": [
-      -3.941893,
-      128.229553
-    ],
+    "position": [1311.96875, 1270.96875, 1705.5565185547],
+    "viewangles": [-55.747669, 151.487396]
+  },
+  {
+    "name": ["B Hall", "Bombsite B"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1243.0239257813, -600.03125, 1614.03125],
+    "viewangles": [-15.168411, -131.834197],
     "grenade": {
       "run": 19
     }
   },
   {
-    "name": [
-      "Toxic",
-      "Hell"
-    ],
+    "name": ["B Hall", "Checkers"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      957.03125,
-      -1464.987915,
-      1648.03125
-    ],
-    "viewangles": [
-      -25.594074,
-      162.566284
-    ]
+    "position": [896.03125, -864.17565917969, 1614.03125],
+    "viewangles": [-12.057572, 179.014678]
   },
   {
-    "name": [
-      "Long",
-      "Forklift"
-    ],
+    "name": ["Roof", "Highway"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      1311.96875,
-      1584.96875,
-      1707.03125
-    ],
-    "viewangles": [
-      -48.740818,
-      -177.95436
-    ]
+    "position": [513.03125, -55.96875, 1705.4176025391],
+    "viewangles": [-30.368013, 132.382934]
   },
   {
-    "name": [
-      "Long",
-      "NBK"
-    ],
+    "name": ["Long", "Catwalk"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      1311.96875,
-      1270.96875,
-      1705.556518
-    ],
-    "viewangles": [
-      -55.747669,
-      151.487396
-    ]
+    "position": [1305.1875, 1603.96875, 1707.03125],
+    "viewangles": [-61.014404, -168.113235]
   },
   {
-    "name": [
-      "B Hall",
-      "Bombsite B"
-    ],
+    "name": ["Toxic", "Default"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      1243.023925,
-      -600.03125,
-      1614.03125
-    ],
-    "viewangles": [
-      -15.168411,
-      -131.834197
-    ],
-    "grenade": {
-      "run": 19
-    }
+    "position": [957.03125, -1464.96875, 1648.03125],
+    "viewangles": [-23.653625, 163.583358]
   },
   {
-    "name": [
-      "B Hall",
-      "Checkers"
-    ],
+    "name": ["Garage", "Middle (Right)"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      896.03125,
-      -864.175659,
-      1614.03125
-    ],
-    "viewangles": [
-      -12.057572,
-      179.014678
-    ]
+    "position": [1737.0909423828, 215.03125, 1613.03125],
+    "viewangles": [-10.62577, 173.586624]
   },
   {
-    "name": [
-      "Roof",
-      "Highway"
-    ],
+    "name": ["Garage", "Middle (Left)"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      513.03125,
-      -55.96875,
-      1705.417602
-    ],
-    "viewangles": [
-      -30.368013,
-      132.382934
-    ]
+    "position": [1737.7218017578, 308.96875, 1613.03125],
+    "viewangles": [-10.671979, -173.708496]
   },
   {
-    "name": [
-      "Long",
-      "Catwalk"
-    ],
+    "name": ["Long", "Forklift \/ Default"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      1305.1875,
-      1603.96875,
-      1707.03125
-    ],
-    "viewangles": [
-      -61.014404,
-      -168.113235
-    ]
+    "position": [1305.1875, 1603.96875, 1707.03125],
+    "viewangles": [-61.507244, -177.692245]
   },
   {
-    "name": [
-      "Toxic",
-      "Default"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      957.03125,
-      -1464.96875,
-      1648.03125
-    ],
-    "viewangles": [
-      -23.653625,
-      163.583358
-    ]
-  },
-  {
-    "name": [
-      "Garage",
-      "Middle (Right)"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      1737.090942,
-      215.03125,
-      1613.03125
-    ],
-    "viewangles": [
-      -10.62577,
-      173.586624
-    ]
-  },
-  {
-    "name": [
-      "Garage",
-      "Middle (Left)"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      1737.721801,
-      308.96875,
-      1613.03125
-    ],
-    "viewangles": [
-      -10.671979,
-      -173.708496
-    ]
-  },
-  {
-    "name": [
-      "Long",
-      "Forklift / Default"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      1305.1875,
-      1603.96875,
-      1707.03125
-    ],
-    "viewangles": [
-      -61.507244,
-      -177.692245
-    ]
-  },
-  {
-    "name": [
-      "Toxic",
-      "Bombsite B"
-    ],
+    "name": ["Toxic", "Bombsite B"],
     "weapon": "weapon_flashbang",
-    "position": [
-      1096.259887,
-      -1227.020751,
-      1596.166625
-    ],
-    "viewangles": [
-      -15.830024,
-      147.951812
-    ],
+    "position": [1096.2598876953, -1227.0207519531, 1596.1666259766],
+    "viewangles": [-15.830024, 147.951812],
     "duck": true
   },
   {
-    "name": [
-      "Checkers",
-      "Vents"
-    ],
+    "name": ["Checkers", "Vents"],
     "weapon": "weapon_molotov",
-    "position": [
-      -407.994171,
-      -412.96875,
-      1645.592773
-    ],
-    "viewangles": [
-      9.3786,
-      11.265567
-    ],
-    "tickrate": [
-      64
-    ],
+    "position": [-407.99417114258, -412.96875, 1614.8745117188],
+    "viewangles": [9.3786001205444, 11.265566825867],
     "grenade": {
       "jump": true
+    },
+    "tickrate": [
+      64
+    ]
+  },
+  {
+    "name": ["Elektro", "Under Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-575.02862548828, 1499.96875, 1709.0206298828],
+    "viewangles": [-6.2211771011353, -11.251684188843]
+  },
+  {
+    "name": ["Truck", "Safe"],
+    "weapon": "weapon_molotov",
+    "position": [-904.03125, 1018.6700439453, 1681.4993896484],
+    "viewangles": [-15.96851, 46.91357]
+  },
+  {
+    "name": ["Heaven", "Spray Box"],
+    "weapon": "weapon_molotov",
+    "position": [-547.03149414063, -546.31591796875, 1736.3266601563],
+    "viewangles": [-8.130892, -59.250759]
+  },
+  {
+    "name": ["Heaven", "Default"],
+    "weapon": "weapon_molotov",
+    "position": [-504.95599365234, -528.99957275391, 1732.4362792969],
+    "viewangles": [-4.049829, -69.769851]
+  },
+  {
+    "name": ["Connector", "Boost"],
+    "weapon": "weapon_molotov",
+    "position": [-608.72082519531, 140.00904846191, 1657.5501708984],
+    "viewangles": [-21.590776, 17.564132],
+    "grenade": {
+      "run": 19
     }
   },
   {
-    "name": [
-      "Elektro",
-      "Under Catwalk"
-    ],
+    "name": ["Default", "Toxic"],
     "weapon": "weapon_molotov",
-    "position": [
-      -575.044189,
-      1499.939208,
-      1691.012695
-    ],
-    "viewangles": [
-      -9.547668,
-      -11.055649
-    ],
+    "position": [-261.71514892578, -1218.03125, 1659.03125],
+    "viewangles": [-21.00418, -2.017698]
+  },
+  {
+    "name": ["Heaven", "Spray Box"],
+    "weapon": "weapon_molotov",
+    "position": [-547.03167724609, -554.52392578125, 1742.0654296875],
+    "viewangles": [-19.12674331665, -53.029014587402],
     "duck": true
   },
   {
-    "name": [
-      "Truck",
-      "Safe"
-    ],
+    "name": ["Long", "Vent"],
     "weapon": "weapon_molotov",
-    "position": [
-      -904.03125,
-      1018.670043,
-      1681.499389
-    ],
-    "viewangles": [
-      -15.96851,
-      46.91357
-    ]
+    "position": [1290.64453125, 1306.2266845703, 1709.8109130859],
+    "viewangles": [-16.005109786987, -116.64111328125],
+    "grenade": {
+      "run": 20
+    }
   },
   {
-    "name": [
-      "Heaven",
-      "Spray Box"
-    ],
+    "name": ["Squeaky", "Elektro"],
     "weapon": "weapon_molotov",
-    "position": [
-      -547.031494,
-      -546.315917,
-      1736.32666
-    ],
-    "viewangles": [
-      -8.130892,
-      -59.250759
-    ]
+    "position": [269.96875, 2028.96875, 1687.2425537109],
+    "viewangles": [-12.868102073669, -144.34951782227]
   },
   {
-    "name": [
-      "Heaven",
-      "Default"
-    ],
+    "name": ["B Hall", "Checkers"],
     "weapon": "weapon_molotov",
-    "position": [
-      -504.955993,
-      -528.999572,
-      1732.436279
-    ],
-    "viewangles": [
-      -4.049829,
-      -69.769851
-    ]
-  },
-  {
-    "name": [
-      "Connector",
-      "Boost"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      -608.720825,
-      140.009048,
-      1657.55017
-    ],
-    "viewangles": [
-      -21.590776,
-      17.564132
-    ],
+    "position": [910.67230224609, -889.25610351563, 1614.03125],
+    "viewangles": [-13.165825, 176.488159],
     "grenade": {
       "run": 19
     }
   },
   {
-    "name": [
-      "Default",
-      "Toxic"
-    ],
+    "name": ["Main", "NBK"],
     "weapon": "weapon_molotov",
-    "position": [
-      -261.715148,
-      -1218.03125,
-      1659.03125
-    ],
-    "viewangles": [
-      -21.00418,
-      -2.017698
-    ]
-  },
-  {
-    "name": [
-      "Heaven",
-      "Spray Box"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      -547.031677,
-      -554.518188,
-      1724.061401
-    ],
-    "viewangles": [
-      -19.126743,
-      -53.029014
-    ],
-    "duck": true
-  },
-  {
-    "name": [
-      "Long",
-      "Vent"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      1292.396972,
-      1302.782958,
-      1709.286499
-    ],
-    "viewangles": [
-      -15.352393,
-      -118.257408
-    ],
+    "position": [657.06530761719, 1505.9736328125, 1702.03125],
+    "viewangles": [-2.154613, 145.538955],
     "grenade": {
       "run": 19
     }
   },
   {
-    "name": [
-      "Squeaky",
-      "Elektro"
-    ],
+    "name": ["Toxic", "Headshot"],
     "weapon": "weapon_molotov",
-    "position": [
-      267.96875,
-      2028.96875,
-      1687.709228
-    ],
-    "viewangles": [
-      -12.827899,
-      -144.320663
-    ]
+    "position": [832.33782958984, -1464.96875, 1615.03125],
+    "viewangles": [-23.022964, 168.217025]
   },
   {
-    "name": [
-      "B Hall",
-      "Checkers"
-    ],
+    "name": ["Toxic", "Spray Box"],
     "weapon": "weapon_molotov",
-    "position": [
-      910.672302,
-      -889.256103,
-      1614.03125
-    ],
-    "viewangles": [
-      -13.165825,
-      176.488159
-    ],
-    "grenade": {
-      "run": 19
-    }
+    "position": [609.03125, -1464.96875, 1615.03125],
+    "viewangles": [-32.355384, 137.087722]
   },
   {
-    "name": [
-      "Main",
-      "NBK"
-    ],
+    "name": ["Toxic", "Default"],
     "weapon": "weapon_molotov",
-    "position": [
-      657.065307,
-      1505.973632,
-      1702.03125
-    ],
-    "viewangles": [
-      -2.154613,
-      145.538955
-    ],
-    "grenade": {
-      "run": 19
-    }
-  },
-  {
-    "name": [
-      "Toxic",
-      "Headshot"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      832.337829,
-      -1464.96875,
-      1615.03125
-    ],
-    "viewangles": [
-      -23.022964,
-      168.217025
-    ]
-  },
-  {
-    "name": [
-      "Toxic",
-      "Spray Box"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      609.03125,
-      -1464.96875,
-      1615.03125
-    ],
-    "viewangles": [
-      -32.355384,
-      137.087722
-    ]
-  },
-  {
-    "name": [
-      "Toxic",
-      "Default"
-    ],
-    "weapon": "weapon_molotov",
-    "position": [
-      957.03125,
-      -1464.96875,
-      1648.03125
-    ],
-    "viewangles": [
-      -24.761978,
-      171.282836
-    ]
+    "position": [957.03125, -1464.96875, 1648.03125],
+    "viewangles": [-24.761978, 171.282836]
   }
 ]
