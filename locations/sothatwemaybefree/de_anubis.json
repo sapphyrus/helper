@@ -1,207 +1,75 @@
 [
   {
-    "name": [
-      "T Spawn",
-      "Bridge"
-    ],
+    "name": ["T Spawn", "Bridge"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      80.190437,
-      -1759.96875,
-      32.749176000000006
-    ],
-    "viewangles": [
-      -17.817588,
-      93.871528
-    ],
-    "tickrate": [
-      64
-    ],
+    "position": [80.190437316895, -1759.96875, 32.749176025391],
+    "viewangles": [-17.817588, 93.871528],
     "grenade": {
       "jump": true
-    }
-  },
-  {
-    "name": [
-      "Water",
-      "Heaven"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      842.004455,
-      154.03125,
-      -158.171279
-    ],
-    "viewangles": [
-      -30.168241,
-      86.512016
-    ],
+    },
     "tickrate": [
       64
-    ],
-    "grenade": {
-      "jump": true
-    }
-  },
-  {
-    "name": [
-      "Bridge",
-      "Connector"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -24.03125,
-      279.99356,
-      8.024009000000007
-    ],
-    "viewangles": [
-      -19.323513,
-      -169.734359
     ]
   },
   {
-    "name": [
-      "Ruins",
-      "Connector"
-    ],
+    "name": ["Water", "Heaven"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      -1016.03125,
-      -103.048721,
-      -1.96875
-    ],
-    "viewangles": [
-      -60.244617,
-      109.081336
-    ],
+    "position": [842.00445556641, 154.03125, -158.17127990723],
+    "viewangles": [-30.168241, 86.512016],
+    "grenade": {
+      "jump": true
+    },
+    "tickrate": [
+      64
+    ]
+  },
+  {
+    "name": ["Bridge", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-24.03125, 279.99356079102, 8.0240087509155],
+    "viewangles": [-19.323513, -169.734359]
+  },
+  {
+    "name": ["Ruins", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1016.03125, -103.04872131348, -1.96875],
+    "viewangles": [-60.244617, 109.081336],
     "duck": true
   },
   {
-    "name": [
-      "Water",
-      "Walkway / Heaven"
-    ],
+    "name": ["Water", "Walkway \/ Heaven"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      921.408142,
-      421.802795,
-      -188.177978
-    ],
-    "viewangles": [
-      -28.890155,
-      95.534675
-    ]
+    "position": [921.40814208984, 421.80279541016, -188.17797851563],
+    "viewangles": [-28.890155, 95.534675]
   },
   {
-    "name": [
-      "Ruins",
-      "Connector"
-    ],
+    "name": ["Ruins", "Alley"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      -1606.750366,
-      -149.973724,
-      0.03125
-    ],
-    "viewangles": [
-      -54.500305,
-      55.326866
-    ]
+    "position": [-1103.9930419922, -473.96875, 56.03125],
+    "viewangles": [-39.500637, 90.063072]
   },
   {
-    "name": [
-      "Ruins",
-      "Bombsite B"
-    ],
+    "name": ["Street", "Bridge"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      -1159.844848,
-      -463.800781,
-      127.81089700000001
-    ],
-    "viewangles": [
-      -32.524753,
-      112.377403
-    ]
+    "position": [212.03125, -587.03106689453, -4.6079339981079],
+    "viewangles": [-22.726913, 114.518516]
   },
   {
-    "name": [
-      "Ruins",
-      "Alley"
-    ],
+    "name": ["Water", "Walkway"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      -1103.993041,
-      -473.96875,
-      56.03125
-    ],
-    "viewangles": [
-      -39.500637,
-      90.063072
-    ]
+    "position": [850.00738525391, 303.93487548828, -182.31492614746],
+    "viewangles": [-30.753484, 87.713386]
   },
   {
-    "name": [
-      "Street",
-      "Bridge"
-    ],
+    "name": ["Ruins", "Palace"],
     "weapon": "weapon_smokegrenade",
-    "position": [
-      212.03125,
-      -587.031066,
-      -4.607934
-    ],
-    "viewangles": [
-      -22.726913,
-      114.518516
-    ]
+    "position": [-1368.8137207031, -331.00561523438, 96.03125],
+    "viewangles": [-36.001827, 76.917701]
   },
   {
-    "name": [
-      "Water",
-      "Walkway"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      850.007385,
-      303.934875,
-      -182.314926
-    ],
-    "viewangles": [
-      -30.753484,
-      87.713386
-    ]
-  },
-  {
-    "name": [
-      "Ruins",
-      "Palace"
-    ],
-    "weapon": "weapon_smokegrenade",
-    "position": [
-      -1368.81372,
-      -331.005615,
-      96.03125
-    ],
-    "viewangles": [
-      -36.001827,
-      76.917701
-    ]
-  },
-  {
-    "name": [
-      "Banana",
-      "Bombsite A"
-    ],
+    "name": ["Banana", "Bombsite A"],
     "weapon": "weapon_molotov",
-    "position": [
-      1626.006958,
-      1343.499023,
-      -146.78479
-    ],
-    "viewangles": [
-      -27.916738,
-      94.483604
-    ]
+    "position": [1626.0069580078, 1343.4990234375, -146.78479003906],
+    "viewangles": [-27.916738, 94.483604]
   }
 ]
